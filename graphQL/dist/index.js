@@ -1,7 +1,14 @@
 import { ApolloServer } from '@apollo/server';
 import { startStandaloneServer } from '@apollo/server/standalone';
-import { getAccountData, getUserData } from './services/profileService.js';
+import { getAccountData, getAccountDataByAccountId, getAddressessLinkedToAccount, getUserData, getUsersLinkedToAccount, } from './services/profileService.js';
 // your data.
+// type Account {
+//   uuid: String!
+//   name: String!
+//   type: String!
+//   addresses: [Address!]!
+//   users: [User!]!
+// }
 const typeDefs = `#graphql
 
   type User {
@@ -19,14 +26,12 @@ const typeDefs = `#graphql
     role: String!
   }
 
+  
   type Account {
     uuid: String!
     name: String!
     type: String!
-    addresses: [Address!]!
-    users: [User!]!
   }
-
   type Address {
     address: String!
     city: String!
@@ -38,12 +43,18 @@ const typeDefs = `#graphql
   type Query {
     user (uid: String!): User
     account (accountId: String!): Account
+    accountData(accountId: String!):Account
+    accountAddressess(accountId: String!):Address
+    accountUsers(accountId: String!):[User]
   }
 `;
 const resolvers = {
     Query: {
         user: (parent, args, contextValue, info) => getUserData(args.uid),
-        account: (parent, args, contextValue, info) => getAccountData(args.accountId),
+        account: (parent, args, contextValue, info) => getAccountData(args.accountId, info),
+        accountData: (parent, args, contextValue, info) => getAccountDataByAccountId(args.accountId),
+        accountAddressess: (parent, args, contextValue, info) => getAddressessLinkedToAccount(args.accountId),
+        accountUsers: (parent, args, contextValue, info) => getUsersLinkedToAccount(args.accountId, info),
     },
 };
 const server = new ApolloServer({

@@ -43,10 +43,10 @@ export const typeDefs = `#graphql
   }
 `;
 
-export const resolvers = {
-  Query: {
-    user: (parent, args, contextValue, info) => getUserData(args.uid),
-    account: (parent, args, contextValue, info) =>
-      getAccountData(args.accountId),
-  },
-};
+// export const resolvers = {
+//   Query: {
+//     user: (parent, args, contextValue, info) => getUserData(args.uid),
+//     account: (parent, args, contextValue, info) =>
+//       getAccountData(args.accountId),
+//   },
+// };

@@ -1,6 +1,5 @@
 // A schema is a collection of type definitions (hence "typeDefs")
 // that together define the "shape" of queries that are executed against
-import { getAccountData, getUserData } from '../services/profileService';
 // your data.
 export const typeDefs = `#graphql
 
@@ -40,9 +39,10 @@ export const typeDefs = `#graphql
     account (accountId: String!): Account
   }
 `;
-export const resolvers = {
-    Query: {
-        user: (parent, args, contextValue, info) => getUserData(args.uid),
-        account: (parent, args, contextValue, info) => getAccountData(args.accountId),
-    },
-};
+// export const resolvers = {
+//   Query: {
+//     user: (parent, args, contextValue, info) => getUserData(args.uid),
+//     account: (parent, args, contextValue, info) =>
+//       getAccountData(args.accountId),
+//   },
+// };

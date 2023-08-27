@@ -1,0 +1,1001 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1692943362028,519,HTTP Request,500,Internal Server Error,JMeter Rest 1-21,text,false,,2435,154,72,265,http://localhost:8082/account/1685018781774620?users=true,518,0,0
+1692943362068,512,HTTP Request,500,Internal Server Error,JMeter Rest 1-25,text,false,,2435,154,76,278,http://localhost:8082/account/1685018781774620?users=true,512,0,1
+1692943361938,668,HTTP Request,500,Internal Server Error,JMeter Rest 1-12,text,false,,2435,154,78,289,http://localhost:8082/account/1685018781774620?users=true,668,0,1
+1692943362096,530,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-24,text,false,,2435,143,77,297,http://localhost:8082/account/1685018781774620,530,0,1
+1692943362106,528,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-25,text,false,,2435,143,77,299,http://localhost:8082/account/1685018781774620,528,0,0
+1692943362108,530,HTTP Request,500,Internal Server Error,JMeter Rest 1-29,text,false,,2435,154,82,302,http://localhost:8082/account/1685018781774620?users=true,530,0,0
+1692943362136,529,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-28,text,false,,2435,143,81,313,http://localhost:8082/account/1685018781774620,529,0,1
+1692943362145,525,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-29,text,false,,2435,143,81,314,http://localhost:8082/account/1685018781774620,525,0,1
+1692943362085,594,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-23,text,false,,2435,143,82,318,http://localhost:8082/account/1685018781774620,594,0,2
+1692943362118,564,HTTP Request,500,Internal Server Error,JMeter Rest 1-30,text,false,,2435,154,86,319,http://localhost:8082/account/1685018781774620?users=true,564,0,0
+1692943362167,585,HTTP Request,500,Internal Server Error,JMeter Rest 1-35,text,false,,2435,154,93,346,http://localhost:8082/account/1685018781774620?users=true,585,0,1
+1692943362177,603,HTTP Request,500,Internal Server Error,JMeter Rest 1-36,text,false,,2435,154,96,358,http://localhost:8082/account/1685018781774620?users=true,603,0,1
+1692943362175,608,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-32,text,false,,2435,143,92,359,http://localhost:8082/account/1685018781774620,608,0,1
+1692943362156,635,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-30,text,false,,2435,143,93,363,http://localhost:8082/account/1685018781774620,635,0,1
+1692943362188,604,HTTP Request,500,Internal Server Error,JMeter Rest 1-37,text,false,,2435,154,97,363,http://localhost:8082/account/1685018781774620?users=true,604,0,0
+1692943362167,632,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-31,text,false,,2435,143,94,366,http://localhost:8082/account/1685018781774620,632,0,0
+1692943362186,616,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-33,text,false,,2435,143,94,367,http://localhost:8082/account/1685018781774620,616,0,0
+1692943362216,612,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-36,text,false,,2435,143,97,377,http://localhost:8082/account/1685018781774620,612,0,1
+1692943362266,564,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-41,text,false,,2435,143,97,377,http://localhost:8082/account/1685018781774620,564,0,1
+1692943362239,593,HTTP Request,500,Internal Server Error,JMeter Rest 1-42,text,false,,2435,154,100,378,http://localhost:8082/account/1685018781774620?users=true,593,0,0
+1692943362196,638,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-34,text,false,,2435,143,97,379,http://localhost:8082/account/1685018781774620,638,0,1
+1692943362138,823,HTTP Request,500,Internal Server Error,JMeter Rest 1-32,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,823,0,0
+1692943362404,714,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-55,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,714,0,1
+1692943362409,718,HTTP Request,500,Internal Server Error,JMeter Rest 1-59,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,718,0,1
+1692943361944,1343,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-9,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1342,0,1
+1692943362528,761,HTTP Request,500,Internal Server Error,JMeter Rest 1-71,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,761,0,0
+1692943362547,765,HTTP Request,500,Internal Server Error,JMeter Rest 1-21,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,765,0,0
+1692943362568,745,HTTP Request,500,Internal Server Error,JMeter Rest 1-75,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,745,0,1
+1692943361925,1389,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-7,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1389,0,1
+1692943362535,780,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-68,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,780,0,1
+1692943362545,771,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-69,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,771,0,0
+1692943362539,786,HTTP Request,500,Internal Server Error,JMeter Rest 1-72,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,786,0,1
+1692943362025,1448,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-17,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1448,0,0
+1692943362599,886,HTTP Request,500,Internal Server Error,JMeter Rest 1-78,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,886,0,0
+1692943362670,839,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-29,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,839,0,0
+1692943362697,814,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-84,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,814,0,1
+1692943362628,893,HTTP Request,500,Internal Server Error,JMeter Rest 1-81,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,893,0,0
+1692943362738,785,HTTP Request,500,Internal Server Error,JMeter Rest 1-92,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,785,0,0
+1692943361876,1650,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-2,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1650,0,0
+1692943362759,772,HTTP Request,500,Internal Server Error,JMeter Rest 1-94,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,772,0,0
+1692943362682,854,HTTP Request,500,Internal Server Error,JMeter Rest 1-30,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,854,0,0
+1692943362658,880,HTTP Request,500,Internal Server Error,JMeter Rest 1-84,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,880,0,1
+1692943362675,865,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-82,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,865,0,1
+1692943362752,790,HTTP Request,500,Internal Server Error,JMeter Rest 1-35,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,790,0,0
+1692943362638,913,HTTP Request,500,Internal Server Error,JMeter Rest 1-82,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,913,0,0
+1692943362678,875,HTTP Request,500,Internal Server Error,JMeter Rest 1-86,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,875,0,1
+1692943362666,894,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-28,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,893,0,0
+1692943362707,855,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-85,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,855,0,1
+1692943362719,847,HTTP Request,500,Internal Server Error,JMeter Rest 1-90,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,847,0,1
+1692943362666,906,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-81,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,906,0,1
+1692943362617,957,HTTP Request,500,Internal Server Error,JMeter Rest 1-80,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,957,0,1
+1692943362728,862,HTTP Request,500,Internal Server Error,JMeter Rest 1-91,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,861,0,1
+1692943362737,901,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-88,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,901,0,1
+1692943362787,872,HTTP Request,500,Internal Server Error,JMeter Rest 1-97,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,872,0,1
+1692943362828,832,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-36,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,832,0,0
+1692943362779,882,HTTP Request,500,Internal Server Error,JMeter Rest 1-96,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,882,0,1
+1692943362834,829,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-34,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,829,0,0
+1692943361830,1835,HTTP Request,500,Internal Server Error,JMeter Rest 1-1,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1835,0,2
+1692943362791,880,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-30,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,880,0,0
+1692943361987,1686,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-13,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1686,0,1
+1692943362776,898,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-92,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,898,0,1
+1692943362825,851,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-97,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,851,0,0
+1692943362792,885,HTTP Request,500,Internal Server Error,JMeter Rest 1-37,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,885,0,0
+1692943361959,1719,HTTP Request,500,Internal Server Error,JMeter Rest 1-14,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1719,0,0
+1692943362802,877,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-33,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,877,0,0
+1692943362800,880,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-31,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,880,0,0
+1692943362783,898,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-32,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,898,0,0
+1692943362831,851,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-41,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,851,0,0
+1692943362833,851,HTTP Request,500,Internal Server Error,JMeter Rest 1-42,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,851,0,0
+1692943362786,899,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-93,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,899,0,1
+1692943361865,1821,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-1,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1821,0,1
+1692943362816,872,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-96,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,872,0,1
+1692943361914,1775,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-6,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1775,0,1
+1692943362227,1462,HTTP Request,500,Internal Server Error,JMeter Rest 1-41,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1462,0,1
+1692943361968,1722,HTTP Request,500,Internal Server Error,JMeter Rest 1-15,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1722,0,1
+1692943361975,1716,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-12,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1716,0,0
+1692943361858,1835,HTTP Request,500,Internal Server Error,JMeter Rest 1-4,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1835,0,1
+1692943362794,900,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-94,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,900,0,1
+1692943362207,1491,HTTP Request,500,Internal Server Error,JMeter Rest 1-39,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1491,0,1
+1692943361935,1774,HTTP Request,200,OK,JMeter Rest without Users 2-8,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,1774,0,1
+1692943361906,1804,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-5,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1804,0,0
+1692943362006,1708,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-15,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1708,0,0
+1692943361889,1825,HTTP Request,500,Internal Server Error,JMeter Rest 1-7,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1825,0,0
+1692943361899,1817,HTTP Request,500,Internal Server Error,JMeter Rest 1-8,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1817,0,0
+1692943361928,1792,HTTP Request,500,Internal Server Error,JMeter Rest 1-11,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1792,0,1
+1692943362798,924,HTTP Request,500,Internal Server Error,JMeter Rest 1-98,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,924,0,1
+1692943361956,1768,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-10,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1768,0,0
+1692943361885,1845,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-3,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1845,0,1
+1692943361966,1771,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-11,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1771,0,1
+1692943361839,1903,HTTP Request,500,Internal Server Error,JMeter Rest 1-2,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1903,0,1
+1692943362819,925,HTTP Request,500,Internal Server Error,JMeter Rest 1-100,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,925,0,1
+1692943362768,989,HTTP Request,500,Internal Server Error,JMeter Rest 1-95,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,989,0,0
+1692943362248,1548,HTTP Request,500,Internal Server Error,JMeter Rest 1-43,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1548,0,1
+1692943362058,1786,HTTP Request,500,Internal Server Error,JMeter Rest 1-24,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1786,0,0
+1692943362805,1048,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-95,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,1048,0,0
+1692943362126,1776,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-27,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1776,0,1
+1692943362379,1525,HTTP Request,500,Internal Server Error,JMeter Rest 1-56,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1525,0,1
+1692943362158,1750,HTTP Request,500,Internal Server Error,JMeter Rest 1-34,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1750,0,0
+1692943362088,1821,HTTP Request,500,Internal Server Error,JMeter Rest 1-27,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1821,0,1
+1692943362855,1057,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-100,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,1057,0,0
+1692943362317,1603,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-46,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1603,0,1
+1692943362365,1561,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-51,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1561,0,1
+1692943362075,1890,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-22,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1890,0,1
+1692943361896,2075,HTTP Request,200,OK,JMeter Rest without Users 2-4,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2075,0,0
+1692943362036,1939,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-18,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1939,0,0
+1692943362009,1967,HTTP Request,500,Internal Server Error,JMeter Rest 1-19,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1967,0,0
+1692943362039,1943,HTTP Request,500,Internal Server Error,JMeter Rest 1-22,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1943,0,0
+1692943362359,1626,HTTP Request,500,Internal Server Error,JMeter Rest 1-54,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1626,0,1
+1692943362388,1599,HTTP Request,500,Internal Server Error,JMeter Rest 1-57,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1599,0,1
+1692943362845,1143,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-99,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,1143,0,0
+1692943362386,1603,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-53,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1603,0,1
+1692943362226,1766,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-37,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1766,0,0
+1692943362278,1718,HTTP Request,500,Internal Server Error,JMeter Rest 1-46,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1718,0,1
+1692943362276,1722,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-42,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1722,0,1
+1692943362346,1655,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-49,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1655,0,1
+1692943361978,2028,HTTP Request,500,Internal Server Error,JMeter Rest 1-16,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,2028,0,8
+1692943362235,1773,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-38,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1773,0,0
+1692943362219,1793,HTTP Request,500,Internal Server Error,JMeter Rest 1-40,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1793,0,0
+1692943362305,1710,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-45,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1710,0,0
+1692943362197,1822,HTTP Request,500,Internal Server Error,JMeter Rest 1-38,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1822,0,0
+1692943362055,1975,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-20,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1975,0,0
+1692943362438,1594,HTTP Request,500,Internal Server Error,JMeter Rest 1-62,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1594,0,1
+1692943362424,1617,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-57,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1617,0,0
+1692943363289,754,HTTP Request,500,Internal Server Error,JMeter Rest 1-71,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,754,0,0
+1692943363287,766,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-9,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,766,0,0
+1692943363315,752,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-68,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,752,0,0
+1692943362428,1641,HTTP Request,500,Internal Server Error,JMeter Rest 1-61,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1641,0,0
+1692943362469,1604,HTTP Request,500,Internal Server Error,JMeter Rest 1-65,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1604,0,0
+1692943362015,2069,HTTP Request,200,OK,JMeter Rest without Users 2-16,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2069,0,0
+1692943362206,1880,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-35,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1880,0,0
+1692943363314,816,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-7,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,816,0,0
+1692943362449,1703,HTTP Request,500,Internal Server Error,JMeter Rest 1-63,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1703,0,0
+1692943362509,1715,HTTP Request,500,Internal Server Error,JMeter Rest 1-69,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1715,0,1
+1692943362337,1888,HTTP Request,500,Internal Server Error,JMeter Rest 1-52,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1888,0,1
+1692943362115,2133,HTTP Request,200,OK,JMeter Rest without Users 2-26,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2133,0,0
+1692943362606,1779,HTTP Request,500,Internal Server Error,JMeter Rest 1-12,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1779,0,0
+1692943363561,829,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-28,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,829,0,0
+1692943362457,1936,HTTP Request,500,Internal Server Error,JMeter Rest 1-64,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1935,0,1
+1692943362616,1783,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-76,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1783,0,1
+1692943362625,1777,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-77,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1777,0,0
+1692943362638,1767,HTTP Request,500,Internal Server Error,JMeter Rest 1-29,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1766,0,0
+1692943362689,1722,HTTP Request,500,Internal Server Error,JMeter Rest 1-87,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1722,0,1
+1692943361997,2426,HTTP Request,500,Internal Server Error,JMeter Rest 1-18,text,false,,2738,154,100,400,http://localhost:8082/account/1685018781774620?users=true,2426,0,1
+1692943362607,1819,HTTP Request,500,Internal Server Error,JMeter Rest 1-79,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1819,0,0
+1692943363573,855,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-81,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,855,0,0
+1692943362416,2021,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-56,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,2021,0,1
+1692943362668,1770,HTTP Request,500,Internal Server Error,JMeter Rest 1-85,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1770,0,0
+1692943361995,2494,HTTP Request,200,OK,JMeter Rest without Users 2-14,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2494,0,1
+1692943363684,827,HTTP Request,500,Internal Server Error,JMeter Rest 1-42,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,827,0,0
+1692943363698,815,HTTP Request,500,Internal Server Error,JMeter Rest 1-39,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,815,0,0
+1692943363716,805,HTTP Request,500,Internal Server Error,JMeter Rest 1-8,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,805,0,0
+1692943363663,861,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-34,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,861,0,0
+1692943363694,833,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-94,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,833,0,0
+1692943363721,810,HTTP Request,500,Internal Server Error,JMeter Rest 1-11,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,810,0,0
+1692943363671,861,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-30,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,861,0,0
+1692943363757,782,HTTP Request,500,Internal Server Error,JMeter Rest 1-95,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,781,0,0
+1692943363676,864,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-97,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,864,0,0
+1692943363660,884,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-36,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,884,0,0
+1692943362717,1829,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-86,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1829,0,1
+1692943363678,875,HTTP Request,500,Internal Server Error,JMeter Rest 1-14,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,875,0,0
+1692943362749,1806,HTTP Request,500,Internal Server Error,JMeter Rest 1-93,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1806,0,1
+1692943363709,847,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-8,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,847,0,0
+1692943363722,835,HTTP Request,500,Internal Server Error,JMeter Rest 1-98,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,835,0,0
+1692943363689,870,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-6,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,870,0,0
+1692943363693,867,HTTP Request,500,Internal Server Error,JMeter Rest 1-4,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,867,0,0
+1692943363690,871,HTTP Request,500,Internal Server Error,JMeter Rest 1-15,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,871,0,0
+1692943363689,875,HTTP Request,500,Internal Server Error,JMeter Rest 1-41,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,875,0,0
+1692943363715,852,HTTP Request,500,Internal Server Error,JMeter Rest 1-7,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,852,0,0
+1692943363743,825,HTTP Request,500,Internal Server Error,JMeter Rest 1-2,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,825,0,0
+1692943363710,859,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-5,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,859,0,0
+1692943362485,2085,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-63,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,2085,0,1
+1692943363731,843,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-3,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,843,0,0
+1692943363688,886,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-96,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,886,0,0
+1692943363692,883,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-12,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,883,0,0
+1692943363681,897,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-31,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,897,0,0
+1692943363677,902,HTTP Request,500,Internal Server Error,JMeter Rest 1-37,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,902,0,0
+1692943362780,1805,HTTP Request,500,Internal Server Error,JMeter Rest 1-36,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1805,0,0
+1692943362726,1859,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-87,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1859,0,1
+1692943363685,904,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-93,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,904,0,0
+1692943362756,1835,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-90,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1835,0,1
+1692943363724,872,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-10,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,872,0,0
+1692943363673,924,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-13,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,924,0,0
+1692943361878,2721,HTTP Request,500,Internal Server Error,JMeter Rest 1-6,text,false,,2738,154,100,400,http://localhost:8082/account/1685018781774620?users=true,2721,0,1
+1692943363744,855,HTTP Request,500,Internal Server Error,JMeter Rest 1-100,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,855,0,0
+1692943362558,2050,HTTP Request,500,Internal Server Error,JMeter Rest 1-74,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,2050,0,1
+1692943363537,1110,HTTP Request,500,Internal Server Error,JMeter Rest 1-30,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1110,0,0
+1692943362605,2059,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-75,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,2059,0,0
+1692943362500,2161,HTTP Request,500,Internal Server Error,JMeter Rest 1-68,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,2161,0,1
+1692943362475,2182,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-62,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,2182,0,1
+1692943363737,918,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-11,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,918,0,0
+1692943362835,1859,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-98,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1859,0,1
+1692943363909,786,HTTP Request,500,Internal Server Error,JMeter Rest 1-27,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,786,0,0
+1692943361848,2851,HTTP Request,500,Internal Server Error,JMeter Rest 1-3,text,false,,2738,154,100,400,http://localhost:8082/account/1685018781774620?users=true,2851,0,1
+1692943363926,780,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-51,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,780,0,0
+1692943363908,799,HTTP Request,500,Internal Server Error,JMeter Rest 1-34,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,799,0,0
+1692943363905,804,HTTP Request,500,Internal Server Error,JMeter Rest 1-56,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,804,0,0
+1692943361917,2793,HTTP Request,500,Internal Server Error,JMeter Rest 1-10,text,false,,2738,154,100,400,http://localhost:8082/account/1685018781774620?users=true,2793,0,1
+1692943363903,809,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-27,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,809,0,0
+1692943363985,731,HTTP Request,500,Internal Server Error,JMeter Rest 1-54,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,731,0,0
+1692943364030,687,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-20,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,687,0,0
+1692943363987,732,HTTP Request,500,Internal Server Error,JMeter Rest 1-57,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,732,0,0
+1692943364074,649,HTTP Request,500,Internal Server Error,JMeter Rest 1-65,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,649,0,0
+1692943364007,718,HTTP Request,500,Internal Server Error,JMeter Rest 1-16,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,718,0,0
+1692943363965,762,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-22,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,762,0,0
+1692943363998,730,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-42,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,730,0,0
+1692943362679,2051,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-23,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,2051,0,0
+1692943362626,2110,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-24,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,2110,0,0
+1692943363118,1620,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-55,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1620,0,0
+1692943363996,745,HTTP Request,500,Internal Server Error,JMeter Rest 1-46,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,745,0,0
+1692943364069,674,HTTP Request,500,Internal Server Error,JMeter Rest 1-61,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,674,0,0
+1692943364019,727,HTTP Request,500,Internal Server Error,JMeter Rest 1-38,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,727,0,0
+1692943364043,706,HTTP Request,500,Internal Server Error,JMeter Rest 1-71,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,706,0,0
+1692943363971,780,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-4,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,780,0,0
+1692943364067,687,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-68,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,687,0,0
+1692943364084,696,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-16,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,696,0,0
+1692943363992,790,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-37,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,790,0,0
+1692943364001,782,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-49,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,782,0,0
+1692943363983,802,HTTP Request,500,Internal Server Error,JMeter Rest 1-22,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,802,0,0
+1692943363312,1484,HTTP Request,500,Internal Server Error,JMeter Rest 1-21,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1484,0,0
+1692943362807,2000,HTTP Request,500,Internal Server Error,JMeter Rest 1-99,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1999,0,1
+1692943362394,2429,HTTP Request,200,OK,JMeter Rest without Users 2-54,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2429,0,1
+1692943364053,777,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-9,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,777,0,0
+1692943363326,1616,HTTP Request,500,Internal Server Error,JMeter Rest 1-72,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1616,0,0
+1692943364041,902,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-57,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,902,0,0
+1692943362327,2618,HTTP Request,200,OK,JMeter Rest without Users 2-47,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2618,0,0
+1692943363316,1630,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-69,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1630,0,0
+1692943362286,2664,HTTP Request,200,OK,JMeter Rest without Users 2-43,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2664,0,0
+1692943362296,2673,HTTP Request,200,OK,JMeter Rest without Users 2-44,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2673,0,1
+1692943362255,2719,HTTP Request,200,OK,JMeter Rest without Users 2-40,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2719,0,0
+1692943362455,2522,HTTP Request,200,OK,JMeter Rest without Users 2-60,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2522,0,0
+1692943362045,2934,HTTP Request,200,OK,JMeter Rest without Users 2-19,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2934,0,1
+1692943362444,2539,HTTP Request,200,OK,JMeter Rest without Users 2-59,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2539,0,1
+1692943362246,2743,HTTP Request,200,OK,JMeter Rest without Users 2-39,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2743,0,1
+1692943363975,1015,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-18,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,1015,0,0
+1692943362436,2561,HTTP Request,200,OK,JMeter Rest without Users 2-58,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2561,0,1
+1692943364226,793,HTTP Request,500,Internal Server Error,JMeter Rest 1-52,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,793,0,0
+1692943362067,2960,HTTP Request,200,OK,JMeter Rest without Users 2-21,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2960,0,1
+1692943363313,1721,HTTP Request,500,Internal Server Error,JMeter Rest 1-75,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1721,0,0
+1692943362376,2706,HTTP Request,200,OK,JMeter Rest without Users 2-52,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2706,0,1
+1692943362565,2631,HTTP Request,200,OK,JMeter Rest without Users 2-71,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2631,0,0
+1692943362335,2885,HTTP Request,200,OK,JMeter Rest without Users 2-48,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2885,0,0
+1692943362555,2828,HTTP Request,200,OK,JMeter Rest without Users 2-70,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2828,0,1
+1692943362495,2895,HTTP Request,200,OK,JMeter Rest without Users 2-64,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2895,0,2
+1692943364585,809,HTTP Request,500,Internal Server Error,JMeter Rest 1-36,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,809,0,0
+1692943364555,841,HTTP Request,500,Internal Server Error,JMeter Rest 1-93,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,841,0,0
+1692943364569,829,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-5,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,829,0,0
+1692943364574,827,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-3,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,827,0,0
+1692943364557,846,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-8,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,846,0,0
+1692943362356,3060,HTTP Request,200,OK,JMeter Rest without Users 2-50,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,3060,0,1
+1692943364546,874,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-86,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,874,0,0
+1692943364579,842,HTTP Request,500,Internal Server Error,JMeter Rest 1-37,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,842,0,0
+1692943363643,1779,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-88,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1779,0,0
+1692943364557,869,HTTP Request,500,Internal Server Error,JMeter Rest 1-98,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,869,0,0
+1692943364596,831,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-10,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,831,0,0
+1692943364554,880,HTTP Request,500,Internal Server Error,JMeter Rest 1-14,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,880,0,0
+1692943364586,849,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-87,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,849,0,0
+1692943362019,3418,HTTP Request,500,Internal Server Error,JMeter Rest 1-20,text,false,,2738,154,100,400,http://localhost:8082/account/1685018781774620?users=true,3418,0,1
+1692943364575,867,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-12,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,867,0,0
+1692943364589,854,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-93,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,854,0,0
+1692943362581,2868,HTTP Request,500,Internal Server Error,JMeter Rest 1-25,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,2868,0,0
+1692943364591,859,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-90,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,859,0,0
+1692943364578,876,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-31,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,876,0,0
+1692943364561,898,HTTP Request,500,Internal Server Error,JMeter Rest 1-15,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,898,0,0
+1692943364599,861,HTTP Request,500,Internal Server Error,JMeter Rest 1-6,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,861,0,0
+1692943364647,818,HTTP Request,500,Internal Server Error,JMeter Rest 1-30,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,818,0,0
+1692943363680,1793,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-33,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1793,0,0
+1692943364540,941,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-97,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,941,0,0
+1692943362506,3064,HTTP Request,200,OK,JMeter Rest without Users 2-65,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,3064,0,1
+1692943362516,3063,HTTP Request,200,OK,JMeter Rest without Users 2-66,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,3063,0,1
+1692943362575,3024,HTTP Request,200,OK,JMeter Rest without Users 2-72,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,3024,0,0
+1692943362465,3137,HTTP Request,200,OK,JMeter Rest without Users 2-61,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,3137,0,1
+1692943362525,3080,HTTP Request,200,OK,JMeter Rest without Users 2-67,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,3080,0,1
+1692943362634,2986,HTTP Request,200,OK,JMeter Rest without Users 2-25,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2986,0,0
+1692943362655,2972,HTTP Request,200,OK,JMeter Rest without Users 2-80,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2972,0,0
+1692943364712,931,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-27,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,931,0,0
+1692943364751,894,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-4,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,894,0,0
+1692943364736,910,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-24,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,910,0,0
+1692943364727,920,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-22,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,920,0,0
+1692943362348,3301,HTTP Request,500,Internal Server Error,JMeter Rest 1-53,text,false,,2738,154,100,400,http://localhost:8082/account/1685018781774620?users=true,3301,0,0
+1692943362149,3501,HTTP Request,500,Internal Server Error,JMeter Rest 1-33,text,false,,2738,154,100,400,http://localhost:8082/account/1685018781774620?users=true,3501,0,1
+1692943364706,979,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-51,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,979,0,0
+1692943364710,963,HTTP Request,500,Internal Server Error,JMeter Rest 1-10,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,963,0,0
+1692943364731,953,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-23,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,953,0,0
+1692943364741,931,HTTP Request,500,Internal Server Error,JMeter Rest 1-46,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,931,0,0
+1692943363854,1818,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-95,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1818,0,0
+1692943362099,3571,HTTP Request,500,Internal Server Error,JMeter Rest 1-28,text,false,,2738,154,100,400,http://localhost:8082/account/1685018781774620?users=true,3571,0,1
+1692943362398,3271,HTTP Request,500,Internal Server Error,JMeter Rest 1-58,text,false,,2738,154,100,400,http://localhost:8082/account/1685018781774620?users=true,3271,0,1
+1692943364744,924,HTTP Request,500,Internal Server Error,JMeter Rest 1-61,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,924,0,0
+1692943364707,956,HTTP Request,500,Internal Server Error,JMeter Rest 1-34,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,956,0,0
+1692943364699,959,HTTP Request,500,Internal Server Error,JMeter Rest 1-3,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,959,0,0
+1692943364716,943,HTTP Request,500,Internal Server Error,JMeter Rest 1-54,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,943,0,0
+1692943364694,968,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-98,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,968,0,0
+1692943363474,2182,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-17,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,2182,0,0
+1692943364725,930,HTTP Request,500,Internal Server Error,JMeter Rest 1-16,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,930,0,0
+1692943364678,986,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-75,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,986,0,0
+1692943364719,969,HTTP Request,500,Internal Server Error,JMeter Rest 1-57,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,969,0,0
+1692943363921,1768,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-46,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1768,0,0
+1692943363796,1893,HTTP Request,500,Internal Server Error,JMeter Rest 1-43,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1893,0,0
+1692943362288,3402,HTTP Request,500,Internal Server Error,JMeter Rest 1-47,text,false,,2738,154,100,400,http://localhost:8082/account/1685018781774620?users=true,3402,0,0
+1692943364738,953,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-55,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,953,0,0
+1692943364723,969,HTTP Request,500,Internal Server Error,JMeter Rest 1-65,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,969,0,0
+1692943363538,2157,HTTP Request,500,Internal Server Error,JMeter Rest 1-84,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,2157,0,0
+1692943363590,2116,HTTP Request,500,Internal Server Error,JMeter Rest 1-91,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,2116,0,0
+1692943363523,2196,HTTP Request,500,Internal Server Error,JMeter Rest 1-92,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,2196,0,0
+1692943363542,2179,HTTP Request,500,Internal Server Error,JMeter Rest 1-35,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,2179,0,0
+1692943364782,942,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-37,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,942,0,0
+1692943364807,919,HTTP Request,500,Internal Server Error,JMeter Rest 1-99,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,919,0,0
+1692943364830,901,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-9,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,901,0,0
+1692943362687,3064,HTTP Request,200,OK,JMeter Rest without Users 2-83,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,3064,0,1
+1692943364824,935,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-54,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,935,0,0
+1692943362585,3275,HTTP Request,200,OK,JMeter Rest without Users 2-73,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,3275,0,0
+1692943363675,2206,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-92,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,2206,0,0
+1692943364943,940,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-57,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,940,0,0
+1692943365020,866,HTTP Request,500,Internal Server Error,JMeter Rest 1-52,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,866,0,0
+1692943364977,911,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-60,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,911,0,0
+1692943364248,1641,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-26,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1641,0,0
+1692943364158,1733,HTTP Request,500,Internal Server Error,JMeter Rest 1-63,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1733,0,0
+1692943364997,895,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-58,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,895,0,0
+1692943364969,925,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-44,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,925,0,0
+1692943363989,1906,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-53,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1906,0,0
+1692943364945,952,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-47,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,952,0,0
+1692943363665,2234,HTTP Request,500,Internal Server Error,JMeter Rest 1-1,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,2234,0,0
+1692943364990,910,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-39,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,910,0,0
+1692943362308,3594,HTTP Request,500,Internal Server Error,JMeter Rest 1-49,text,false,,2738,154,100,400,http://localhost:8082/account/1685018781774620?users=true,3594,0,0
+1692943363682,2222,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-32,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,2222,0,0
+1692943363686,2219,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-1,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,2219,0,0
+1692943364990,917,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-18,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,917,0,0
+1692943365027,882,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-21,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,882,0,0
+1692943363659,2251,HTTP Request,500,Internal Server Error,JMeter Rest 1-97,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,2251,0,0
+1692943364950,962,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-43,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,962,0,0
+1692943361989,3925,HTTP Request,500,Internal Server Error,JMeter Rest 1-17,text,false,,2738,154,100,400,http://localhost:8082/account/1685018781774620?users=true,3925,0,0
+1692943362548,3368,HTTP Request,500,Internal Server Error,JMeter Rest 1-73,text,false,,2738,154,100,400,http://localhost:8082/account/1685018781774620?users=true,3368,0,1
+1692943363714,2210,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-15,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,2210,0,0
+1692943365220,727,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-48,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,727,0,0
+1692943365197,754,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-71,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,754,0,0
+1692943362765,3224,HTTP Request,200,OK,JMeter Rest without Users 2-91,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,3224,0,0
+1692943363527,2514,HTTP Request,200,OK,JMeter Rest without Users 2-2,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2514,0,0
+1692943363512,2541,HTTP Request,200,OK,JMeter Rest without Users 2-84,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2541,0,0
+1692943362594,3587,HTTP Request,200,OK,JMeter Rest without Users 2-74,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,3587,0,0
+1692943362758,3418,HTTP Request,200,OK,JMeter Rest without Users 2-89,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,3418,0,0
+1692943363541,2656,HTTP Request,200,OK,JMeter Rest without Users 2-82,text,true,,479,143,100,400,http://localhost:8082/account/1685018781774620,2656,0,0
+1692943364524,1716,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-34,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1716,0,0
+1692943364512,1732,HTTP Request,500,Internal Server Error,JMeter Rest 1-42,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1732,0,0
+1692943365437,807,HTTP Request,500,Internal Server Error,JMeter Rest 1-20,text,false,,2435,154,100,400,http://localhost:8082/account/1685018781774620?users=true,807,0,0
+1692943365436,815,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-87,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,815,0,0
+1692943364599,1652,HTTP Request,500,Internal Server Error,JMeter Rest 1-100,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1652,0,0
+1692943365474,782,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-33,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,782,0,0
+1692943365450,808,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-90,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,808,0,0
+1692943362518,3741,HTTP Request,500,Internal Server Error,JMeter Rest 1-70,text,false,,2738,154,100,400,http://localhost:8082/account/1685018781774620?users=true,3741,0,1
+1692943365442,819,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-12,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,819,0,0
+1692943364513,1752,HTTP Request,500,Internal Server Error,JMeter Rest 1-39,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1752,0,0
+1692943364564,1708,HTTP Request,500,Internal Server Error,JMeter Rest 1-41,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1708,0,0
+1692943362487,3793,HTTP Request,500,Internal Server Error,JMeter Rest 1-67,text,false,,2738,154,100,400,http://localhost:8082/account/1685018781774620?users=true,3793,0,1
+1692943364527,1759,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-94,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1759,0,0
+1692943365443,848,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-93,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,848,0,0
+1692943364574,1722,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-96,text,false,,2711,143,100,400,http://localhost:8082/account/1685018781774620,1722,0,0
+1692943364522,1776,HTTP Request,500,Internal Server Error,JMeter Rest 1-8,text,false,,2711,154,100,400,http://localhost:8082/account/1685018781774620?users=true,1776,0,0
+1692943365454,853,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-31,text,false,,2435,143,100,400,http://localhost:8082/account/1685018781774620,853,0,0
+1692943364532,1781,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-30,text,false,,2711,143,99,399,http://localhost:8082/account/1685018781774620,1781,0,0
+1692943362329,3992,HTTP Request,500,Internal Server Error,JMeter Rest 1-51,text,false,,2738,154,100,399,http://localhost:8082/account/1685018781774620?users=true,3992,0,1
+1692943364559,1767,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-6,text,false,,2711,143,99,399,http://localhost:8082/account/1685018781774620,1767,0,0
+1692943362644,3687,HTTP Request,200,OK,JMeter Rest without Users 2-79,text,true,,479,143,99,399,http://localhost:8082/account/1685018781774620,3687,0,0
+1692943365645,713,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-4,text,false,,2435,143,99,398,http://localhost:8082/account/1685018781774620,713,0,0
+1692943365627,735,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-80,text,false,,2435,143,99,398,http://localhost:8082/account/1685018781774620,735,0,0
+1692943365647,716,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-22,text,false,,2435,143,99,398,http://localhost:8082/account/1685018781774620,716,0,0
+1692943364695,1669,HTTP Request,500,Internal Server Error,JMeter Rest 1-27,text,false,,2711,154,100,398,http://localhost:8082/account/1685018781774620?users=true,1669,0,0
+1692943364749,1623,HTTP Request,500,Internal Server Error,JMeter Rest 1-71,text,false,,2711,154,100,398,http://localhost:8082/account/1685018781774620?users=true,1623,0,0
+1692943365600,773,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-72,text,false,,2435,143,99,398,http://localhost:8082/account/1685018781774620,773,0,0
+1692943365646,729,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-24,text,false,,2435,143,99,398,http://localhost:8082/account/1685018781774620,729,0,0
+1692943364679,1702,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-11,text,false,,2711,143,99,398,http://localhost:8082/account/1685018781774620,1702,0,0
+1692943365602,785,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-61,text,false,,2435,143,99,398,http://localhost:8082/account/1685018781774620,785,0,0
+1692943365570,822,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-65,text,false,,2435,143,99,398,http://localhost:8082/account/1685018781774620,822,0,0
+1692943365643,750,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-27,text,false,,2435,143,99,398,http://localhost:8082/account/1685018781774620,750,0,0
+1692943364597,1797,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-13,text,false,,2711,143,99,398,http://localhost:8082/account/1685018781774620,1797,0,0
+1692943362709,3687,HTTP Request,500,Internal Server Error,JMeter Rest 1-89,text,false,,2738,154,100,398,http://localhost:8082/account/1685018781774620?users=true,3687,0,1
+1692943364424,1973,HTTP Request,500,Internal Server Error,JMeter Rest 1-18,text,false,,2711,154,100,398,http://localhost:8082/account/1685018781774620?users=true,1973,0,0
+1692943365461,942,HTTP Request,500,Internal Server Error,JMeter Rest 1-6,text,false,,2435,154,100,398,http://localhost:8082/account/1685018781774620?users=true,942,0,0
+1692943365620,793,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-25,text,false,,2435,143,99,398,http://localhost:8082/account/1685018781774620,793,0,0
+1692943365688,727,HTTP Request,500,Internal Server Error,JMeter Rest 1-16,text,false,,2435,154,100,398,http://localhost:8082/account/1685018781774620?users=true,727,0,0
+1692943365688,735,HTTP Request,500,Internal Server Error,JMeter Rest 1-3,text,false,,2435,154,100,398,http://localhost:8082/account/1685018781774620?users=true,735,0,0
+1692943365687,739,HTTP Request,500,Internal Server Error,JMeter Rest 1-58,text,false,,2435,154,100,398,http://localhost:8082/account/1685018781774620?users=true,739,0,0
+1692943365649,779,HTTP Request,500,Internal Server Error,JMeter Rest 1-53,text,false,,2435,154,100,398,http://localhost:8082/account/1685018781774620?users=true,779,0,0
+1692943364747,1682,HTTP Request,500,Internal Server Error,JMeter Rest 1-38,text,false,,2711,154,100,398,http://localhost:8082/account/1685018781774620?users=true,1682,0,0
+1692943365687,744,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-23,text,false,,2435,143,99,398,http://localhost:8082/account/1685018781774620,744,0,0
+1692943365688,744,HTTP Request,500,Internal Server Error,JMeter Rest 1-61,text,false,,2435,154,100,398,http://localhost:8082/account/1685018781774620?users=true,744,0,0
+1692943365688,752,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-17,text,false,,2435,143,99,398,http://localhost:8082/account/1685018781774620,752,0,0
+1692943364678,1766,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-62,text,false,,2711,143,99,398,http://localhost:8082/account/1685018781774620,1766,0,0
+1692943365727,719,HTTP Request,500,Internal Server Error,JMeter Rest 1-99,text,false,,2435,154,100,398,http://localhost:8082/account/1685018781774620?users=true,719,0,0
+1692943365692,759,HTTP Request,500,Internal Server Error,JMeter Rest 1-65,text,false,,2435,154,100,398,http://localhost:8082/account/1685018781774620?users=true,759,0,0
+1692943365689,766,HTTP Request,500,Internal Server Error,JMeter Rest 1-43,text,false,,2435,154,100,398,http://localhost:8082/account/1685018781774620?users=true,766,0,0
+1692943365751,709,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-83,text,false,,2435,143,99,398,http://localhost:8082/account/1685018781774620,709,0,0
+1692943365687,777,HTTP Request,500,Internal Server Error,JMeter Rest 1-10,text,false,,2435,154,100,398,http://localhost:8082/account/1685018781774620?users=true,777,0,0
+1692943365687,779,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-95,text,false,,2435,143,99,398,http://localhost:8082/account/1685018781774620,779,0,0
+1692943364785,1693,HTTP Request,500,Internal Server Error,JMeter Rest 1-22,text,false,,2711,154,100,398,http://localhost:8082/account/1685018781774620?users=true,1693,0,0
+1692943365706,773,HTTP Request,500,Internal Server Error,JMeter Rest 1-91,text,false,,2435,154,100,398,http://localhost:8082/account/1685018781774620?users=true,773,0,0
+1692943365688,793,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-75,text,false,,2435,143,99,398,http://localhost:8082/account/1685018781774620,793,0,0
+1692943365688,794,HTTP Request,500,Internal Server Error,JMeter Rest 1-54,text,false,,2435,154,100,398,http://localhost:8082/account/1685018781774620?users=true,794,0,0
+1692943365687,797,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-51,text,false,,2435,143,99,398,http://localhost:8082/account/1685018781774620,797,0,0
+1692943365689,807,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-46,text,false,,2435,143,99,398,http://localhost:8082/account/1685018781774620,807,0,0
+1692943365690,808,HTTP Request,500,Internal Server Error,JMeter Rest 1-47,text,false,,2435,154,100,398,http://localhost:8082/account/1685018781774620?users=true,808,0,0
+1692943365731,787,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-9,text,false,,2435,143,99,398,http://localhost:8082/account/1685018781774620,787,0,0
+1692943364755,1770,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-68,text,false,,2711,143,98,397,http://localhost:8082/account/1685018781774620,1770,0,0
+1692943365696,837,HTTP Request,500,Internal Server Error,JMeter Rest 1-84,text,false,,2435,154,100,397,http://localhost:8082/account/1685018781774620?users=true,837,0,0
+1692943365721,818,HTTP Request,500,Internal Server Error,JMeter Rest 1-35,text,false,,2435,154,100,397,http://localhost:8082/account/1685018781774620?users=true,818,0,0
+1692943364717,1824,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-20,text,false,,2711,143,98,397,http://localhost:8082/account/1685018781774620,1824,0,0
+1692943364780,1762,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-16,text,false,,2711,143,98,397,http://localhost:8082/account/1685018781774620,1762,0,0
+1692943365687,877,HTTP Request,500,Internal Server Error,JMeter Rest 1-46,text,false,,2435,154,100,397,http://localhost:8082/account/1685018781774620?users=true,877,0,0
+1692943365691,874,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-55,text,false,,2435,143,98,397,http://localhost:8082/account/1685018781774620,874,0,0
+1692943365687,879,HTTP Request,500,Internal Server Error,JMeter Rest 1-28,text,false,,2435,154,100,397,http://localhost:8082/account/1685018781774620?users=true,879,0,0
+1692943364678,1891,HTTP Request,500,Internal Server Error,JMeter Rest 1-68,text,false,,2711,154,100,397,http://localhost:8082/account/1685018781774620?users=true,1891,0,0
+1692943362635,3998,HTTP Request,200,OK,JMeter Rest without Users 2-78,text,true,,479,143,98,397,http://localhost:8082/account/1685018781774620,3998,0,0
+1692943363562,3095,HTTP Request,200,OK,JMeter Rest without Users 2-85,text,true,,479,143,98,397,http://localhost:8082/account/1685018781774620,3095,0,0
+1692943365911,806,HTTP Request,500,Internal Server Error,JMeter Rest 1-97,text,false,,2435,154,100,397,http://localhost:8082/account/1685018781774620?users=true,806,0,0
+1692943365914,802,HTTP Request,500,Internal Server Error,JMeter Rest 1-17,text,false,,2435,154,100,397,http://localhost:8082/account/1685018781774620?users=true,802,0,0
+1692943365907,808,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-18,text,false,,2435,143,98,397,http://localhost:8082/account/1685018781774620,808,0,0
+1692943365916,791,HTTP Request,500,Internal Server Error,JMeter Rest 1-73,text,false,,2435,154,100,397,http://localhost:8082/account/1685018781774620?users=true,791,0,0
+1692943364568,2138,HTTP Request,500,Internal Server Error,JMeter Rest 1-2,text,false,,2711,154,100,397,http://localhost:8082/account/1685018781774620?users=true,2138,0,0
+1692943363509,3196,HTTP Request,200,OK,JMeter Rest without Users 2-29,text,true,,479,143,98,397,http://localhost:8082/account/1685018781774620,3196,0,0
+1692943365884,837,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-57,text,false,,2435,143,98,397,http://localhost:8082/account/1685018781774620,837,0,0
+1692943365896,826,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-53,text,false,,2435,143,98,397,http://localhost:8082/account/1685018781774620,826,0,0
+1692943365899,823,HTTP Request,500,Internal Server Error,JMeter Rest 1-1,text,false,,2435,154,100,397,http://localhost:8082/account/1685018781774620?users=true,823,0,0
+1692943365897,826,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-47,text,false,,2435,143,98,397,http://localhost:8082/account/1685018781774620,826,0,0
+1692943365894,833,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-44,text,false,,2435,143,98,397,http://localhost:8082/account/1685018781774620,833,0,0
+1692943365904,826,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-32,text,false,,2435,143,98,397,http://localhost:8082/account/1685018781774620,826,0,0
+1692943365890,842,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-26,text,false,,2435,143,98,397,http://localhost:8082/account/1685018781774620,842,0,0
+1692943364979,1754,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-19,text,false,,2711,143,98,397,http://localhost:8082/account/1685018781774620,1754,0,0
+1692943365905,829,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-1,text,false,,2435,143,98,397,http://localhost:8082/account/1685018781774620,829,0,0
+1692943365989,746,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-91,text,false,,2435,143,98,397,http://localhost:8082/account/1685018781774620,746,0,0
+1692943365901,835,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-39,text,false,,2435,143,98,397,http://localhost:8082/account/1685018781774620,835,0,0
+1692943363131,3607,HTTP Request,500,Internal Server Error,JMeter Rest 1-59,text,false,,2738,154,100,397,http://localhost:8082/account/1685018781774620?users=true,3607,0,0
+1692943364946,1802,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-69,text,false,,2711,143,98,397,http://localhost:8082/account/1685018781774620,1802,0,0
+1692943364008,2868,HTTP Request,200,OK,JMeter Rest without Users 2-38,text,true,,479,143,98,397,http://localhost:8082/account/1685018781774620,2868,0,0
+1692943363988,2919,HTTP Request,200,OK,JMeter Rest without Users 2-99,text,true,,479,143,98,397,http://localhost:8082/account/1685018781774620,2919,0,0
+1692943364015,2992,HTTP Request,200,OK,JMeter Rest without Users 2-45,text,true,,479,143,98,397,http://localhost:8082/account/1685018781774620,2992,0,0
+1692943361867,5159,HTTP Request,200,OK,JMeter Rest 1-5,text,true,,1011,154,100,397,http://localhost:8082/account/1685018781774620?users=true,5159,0,0
+1692943366262,799,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-12,text,false,,2435,143,98,393,http://localhost:8082/account/1685018781774620,799,0,0
+1692943365034,2033,HTTP Request,500,Internal Server Error,JMeter Rest 1-75,text,false,,2711,154,100,391,http://localhost:8082/account/1685018781774620?users=true,2033,0,0
+1692943366298,773,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-96,text,false,,2435,143,97,391,http://localhost:8082/account/1685018781774620,773,0,0
+1692943366274,798,HTTP Request,500,Internal Server Error,JMeter Rest 1-41,text,false,,2435,154,100,391,http://localhost:8082/account/1685018781774620?users=true,798,0,0
+1692943366287,786,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-94,text,false,,2435,143,97,391,http://localhost:8082/account/1685018781774620,786,0,0
+1692943366266,819,HTTP Request,500,Internal Server Error,JMeter Rest 1-39,text,false,,2435,154,100,390,http://localhost:8082/account/1685018781774620?users=true,819,0,0
+1692943366293,793,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-93,text,false,,2435,143,97,390,http://localhost:8082/account/1685018781774620,793,0,0
+1692943366363,732,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-80,text,false,,2435,143,96,389,http://localhost:8082/account/1685018781774620,732,0,0
+1692943366382,727,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-11,text,false,,2435,143,96,389,http://localhost:8082/account/1685018781774620,727,0,0
+1692943366377,736,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-24,text,false,,2435,143,96,389,http://localhost:8082/account/1685018781774620,736,0,0
+1692943365449,1664,HTTP Request,500,Internal Server Error,JMeter Rest 1-25,text,false,,2711,154,100,388,http://localhost:8082/account/1685018781774620?users=true,1664,0,0
+1692943366375,747,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-72,text,false,,2435,143,95,388,http://localhost:8082/account/1685018781774620,747,0,0
+1692943366365,758,HTTP Request,500,Internal Server Error,JMeter Rest 1-27,text,false,,2435,154,100,388,http://localhost:8082/account/1685018781774620?users=true,758,0,0
+1692943363683,3468,HTTP Request,200,OK,JMeter Rest without Users 2-41,text,true,,479,143,95,387,http://localhost:8082/account/1685018781774620,3468,0,0
+1692943366424,807,HTTP Request,500,Internal Server Error,JMeter Rest 1-3,text,false,,2435,154,100,386,http://localhost:8082/account/1685018781774620?users=true,807,0,0
+1692943365605,1624,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-67,text,false,,2711,143,95,386,http://localhost:8082/account/1685018781774620,1624,0,0
+1692943366465,763,HTTP Request,500,Internal Server Error,JMeter Rest 1-10,text,false,,2435,154,100,386,http://localhost:8082/account/1685018781774620?users=true,763,0,0
+1692943366396,831,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-13,text,false,,2435,143,95,386,http://localhost:8082/account/1685018781774620,831,0,0
+1692943366433,788,HTTP Request,500,Internal Server Error,JMeter Rest 1-61,text,false,,2435,154,100,386,http://localhost:8082/account/1685018781774620?users=true,788,0,0
+1692943365688,1531,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-98,text,false,,2711,143,95,386,http://localhost:8082/account/1685018781774620,1531,0,0
+1692943366483,735,HTTP Request,500,Internal Server Error,JMeter Rest 1-54,text,false,,2435,154,100,386,http://localhost:8082/account/1685018781774620?users=true,735,0,0
+1692943365719,1498,HTTP Request,500,Internal Server Error,JMeter Rest 1-92,text,false,,2711,154,100,386,http://localhost:8082/account/1685018781774620?users=true,1498,0,0
+1692943366467,750,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-95,text,false,,2435,143,95,386,http://localhost:8082/account/1685018781774620,750,0,0
+1692943366445,770,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-62,text,false,,2435,143,95,386,http://localhost:8082/account/1685018781774620,770,0,0
+1692943366485,729,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-51,text,false,,2435,143,95,386,http://localhost:8082/account/1685018781774620,729,0,0
+1692943366430,767,HTTP Request,500,Internal Server Error,JMeter Rest 1-53,text,false,,2435,154,100,387,http://localhost:8082/account/1685018781774620?users=true,767,0,0
+1692943366432,769,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-23,text,false,,2435,143,95,387,http://localhost:8082/account/1685018781774620,769,0,0
+1692943365651,1544,HTTP Request,500,Internal Server Error,JMeter Rest 1-33,text,false,,2711,154,100,387,http://localhost:8082/account/1685018781774620?users=true,1544,0,0
+1692943366417,777,HTTP Request,500,Internal Server Error,JMeter Rest 1-16,text,false,,2435,154,100,387,http://localhost:8082/account/1685018781774620?users=true,777,0,0
+1692943365481,1711,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-97,text,false,,2711,143,95,387,http://localhost:8082/account/1685018781774620,1711,0,0
+1692943366405,786,HTTP Request,500,Internal Server Error,JMeter Rest 1-6,text,false,,2435,154,100,387,http://localhost:8082/account/1685018781774620?users=true,786,0,0
+1692943366430,802,HTTP Request,500,Internal Server Error,JMeter Rest 1-38,text,false,,2435,154,97,381,http://localhost:8082/account/1685018781774620?users=true,802,0,0
+1692943366482,752,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-75,text,false,,2435,143,93,381,http://localhost:8082/account/1685018781774620,752,0,0
+1692943366428,807,HTTP Request,500,Internal Server Error,JMeter Rest 1-58,text,false,,2435,154,97,381,http://localhost:8082/account/1685018781774620?users=true,807,0,0
+1692943365579,1656,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-66,text,false,,2711,143,93,381,http://localhost:8082/account/1685018781774620,1656,0,0
+1692943363485,3751,HTTP Request,500,Internal Server Error,JMeter Rest 1-78,text,false,,2738,154,97,381,http://localhost:8082/account/1685018781774620?users=true,3751,0,0
+1692943366397,881,HTTP Request,500,Internal Server Error,JMeter Rest 1-89,text,false,,2435,154,97,381,http://localhost:8082/account/1685018781774620?users=true,881,0,0
+1692943366415,873,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-25,text,false,,2435,143,93,381,http://localhost:8082/account/1685018781774620,873,0,0
+1692943366447,841,HTTP Request,500,Internal Server Error,JMeter Rest 1-99,text,false,,2435,154,97,381,http://localhost:8082/account/1685018781774620?users=true,841,0,0
+1692943365390,1900,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-64,text,false,,2711,143,93,381,http://localhost:8082/account/1685018781774620,1900,0,0
+1692943366499,792,HTTP Request,500,Internal Server Error,JMeter Rest 1-47,text,false,,2435,154,97,381,http://localhost:8082/account/1685018781774620?users=true,792,0,0
+1692943366456,836,HTTP Request,500,Internal Server Error,JMeter Rest 1-43,text,false,,2435,154,97,381,http://localhost:8082/account/1685018781774620?users=true,836,0,0
+1692943366480,820,HTTP Request,500,Internal Server Error,JMeter Rest 1-91,text,false,,2435,154,97,379,http://localhost:8082/account/1685018781774620?users=true,820,0,0
+1692943365724,1578,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-37,text,false,,2711,143,93,379,http://localhost:8082/account/1685018781774620,1578,0,0
+1692943366540,765,HTTP Request,500,Internal Server Error,JMeter Rest 1-35,text,false,,2435,154,97,379,http://localhost:8082/account/1685018781774620?users=true,765,0,0
+1692943366526,779,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-68,text,false,,2435,143,93,378,http://localhost:8082/account/1685018781774620,779,0,0
+1692943366441,867,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-17,text,false,,2435,143,92,377,http://localhost:8082/account/1685018781774620,867,0,0
+1692943366635,675,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-78,text,false,,2435,143,92,377,http://localhost:8082/account/1685018781774620,675,0,0
+1692943366571,740,HTTP Request,500,Internal Server Error,JMeter Rest 1-68,text,false,,2435,154,96,377,http://localhost:8082/account/1685018781774620?users=true,740,0,0
+1692943365421,1891,HTTP Request,500,Internal Server Error,JMeter Rest 1-37,text,false,,2711,154,96,377,http://localhost:8082/account/1685018781774620?users=true,1891,0,0
+1692943366542,772,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-20,text,false,,2435,143,92,376,http://localhost:8082/account/1685018781774620,772,0,0
+1692943366567,748,HTTP Request,500,Internal Server Error,JMeter Rest 1-28,text,false,,2435,154,95,376,http://localhost:8082/account/1685018781774620?users=true,748,0,0
+1692943366565,752,HTTP Request,500,Internal Server Error,JMeter Rest 1-46,text,false,,2435,154,95,376,http://localhost:8082/account/1685018781774620?users=true,752,0,0
+1692943366566,757,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-55,text,false,,2435,143,92,375,http://localhost:8082/account/1685018781774620,757,0,0
+1692943366659,666,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-85,text,false,,2435,143,91,374,http://localhost:8082/account/1685018781774620,666,0,0
+1692943365688,1637,HTTP Request,500,Internal Server Error,JMeter Rest 1-34,text,false,,2711,154,94,374,http://localhost:8082/account/1685018781774620?users=true,1637,0,0
+1692943365861,1467,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-73,text,false,,2711,143,91,374,http://localhost:8082/account/1685018781774620,1467,0,0
+1692943363575,3760,HTTP Request,500,Internal Server Error,JMeter Rest 1-80,text,false,,2738,154,94,374,http://localhost:8082/account/1685018781774620?users=true,3760,0,0
+1692943366544,797,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-16,text,false,,2435,143,91,374,http://localhost:8082/account/1685018781774620,797,0,0
+1692943366721,637,HTTP Request,500,Internal Server Error,JMeter Rest 1-97,text,false,,2435,154,94,374,http://localhost:8082/account/1685018781774620?users=true,637,0,0
+1692943366722,643,HTTP Request,500,Internal Server Error,JMeter Rest 1-2,text,false,,2435,154,94,374,http://localhost:8082/account/1685018781774620?users=true,643,0,0
+1692943366728,639,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-44,text,false,,2435,143,91,374,http://localhost:8082/account/1685018781774620,639,0,0
+1692943366734,635,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-19,text,false,,2435,143,91,374,http://localhost:8082/account/1685018781774620,635,0,0
+1692943365886,1493,HTTP Request,500,Internal Server Error,JMeter Rest 1-52,text,false,,2711,154,94,374,http://localhost:8082/account/1685018781774620?users=true,1493,0,0
+1692943365952,1428,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-71,text,false,,2711,143,91,374,http://localhost:8082/account/1685018781774620,1428,0,0
+1692943366749,648,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-69,text,false,,2435,143,91,374,http://localhost:8082/account/1685018781774620,648,0,0
+1692943366722,679,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-29,text,false,,2435,143,91,374,http://localhost:8082/account/1685018781774620,679,0,0
+1692943366722,680,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-57,text,false,,2435,143,91,374,http://localhost:8082/account/1685018781774620,680,0,0
+1692943366722,681,HTTP Request,500,Internal Server Error,JMeter Rest 1-17,text,false,,2435,154,94,373,http://localhost:8082/account/1685018781774620?users=true,681,0,0
+1692943365902,1502,HTTP Request,500,Internal Server Error,JMeter Rest 1-49,text,false,,2711,154,94,373,http://localhost:8082/account/1685018781774620?users=true,1502,0,0
+1692943366739,667,HTTP Request,500,Internal Server Error,JMeter Rest 1-59,text,false,,2435,154,94,373,http://localhost:8082/account/1685018781774620?users=true,667,0,0
+1692943365925,1493,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-15,text,false,,2711,143,90,373,http://localhost:8082/account/1685018781774620,1493,0,0
+1692943366724,706,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-47,text,false,,2435,143,90,373,http://localhost:8082/account/1685018781774620,706,0,0
+1692943365893,1538,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-58,text,false,,2711,143,90,373,http://localhost:8082/account/1685018781774620,1538,0,0
+1692943361948,5494,HTTP Request,200,OK,JMeter Rest 1-13,text,true,,1011,154,94,372,http://localhost:8082/account/1685018781774620?users=true,5494,0,0
+1692943365909,1536,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-21,text,false,,2711,143,90,372,http://localhost:8082/account/1685018781774620,1536,0,0
+1692943366733,714,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-26,text,false,,2435,143,90,372,http://localhost:8082/account/1685018781774620,714,0,0
+1692943364393,3065,HTTP Request,500,Internal Server Error,JMeter Rest 1-64,text,false,,2738,154,94,372,http://localhost:8082/account/1685018781774620?users=true,3065,0,0
+1692943364402,3066,HTTP Request,200,OK,JMeter Rest without Users 2-77,text,true,,479,143,90,372,http://localhost:8082/account/1685018781774620,3066,0,0
+1692943364437,3038,HTTP Request,200,OK,JMeter Rest without Users 2-56,text,true,,479,143,90,372,http://localhost:8082/account/1685018781774620,3038,0,0
+1692943363553,3931,HTTP Request,500,Internal Server Error,JMeter Rest 1-86,text,false,,2738,154,94,372,http://localhost:8082/account/1685018781774620?users=true,3931,0,0
+1692943364400,3133,HTTP Request,200,OK,JMeter Rest without Users 2-76,text,true,,479,143,90,372,http://localhost:8082/account/1685018781774620,3133,0,0
+1692943364544,3016,HTTP Request,200,OK,JMeter Rest without Users 2-36,text,true,,479,143,90,372,http://localhost:8082/account/1685018781774620,3016,0,0
+1692943364086,3488,HTTP Request,200,OK,JMeter Rest without Users 2-35,text,true,,479,143,90,372,http://localhost:8082/account/1685018781774620,3488,0,0
+1692943363912,3673,HTTP Request,200,OK,JMeter Rest without Users 2-100,text,true,,479,143,90,372,http://localhost:8082/account/1685018781774620,3673,0,0
+1692943361909,5707,HTTP Request,200,OK,JMeter Rest 1-9,text,true,,1011,154,94,372,http://localhost:8082/account/1685018781774620?users=true,5707,0,0
+1692943364428,3227,HTTP Request,200,OK,JMeter Rest without Users 2-81,text,true,,479,143,90,370,http://localhost:8082/account/1685018781774620,3227,0,0
+1692943364489,3183,HTTP Request,200,OK,JMeter Rest without Users 2-14,text,true,,479,143,90,370,http://localhost:8082/account/1685018781774620,3183,0,0
+1692943366252,1500,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-87,text,false,,2711,143,90,368,http://localhost:8082/account/1685018781774620,1500,0,0
+1692943367068,648,HTTP Request,500,Internal Server Error,JMeter Rest 1-75,text,false,,2435,154,94,370,http://localhost:8082/account/1685018781774620?users=true,648,0,0
+1692943366299,1487,HTTP Request,500,Internal Server Error,JMeter Rest 1-8,text,false,,2711,154,94,366,http://localhost:8082/account/1685018781774620?users=true,1487,0,0
+1692943364032,3789,HTTP Request,500,Internal Server Error,JMeter Rest 1-62,text,false,,2738,154,94,366,http://localhost:8082/account/1685018781774620?users=true,3789,0,0
+1692943366364,1478,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-22,text,false,,2711,143,90,366,http://localhost:8082/account/1685018781774620,1478,0,0
+1692943367236,607,HTTP Request,500,Internal Server Error,JMeter Rest 1-58,text,false,,2435,154,94,365,http://localhost:8082/account/1685018781774620?users=true,607,0,0
+1692943362049,5803,HTTP Request,200,OK,JMeter Rest 1-23,text,true,,1011,154,94,361,http://localhost:8082/account/1685018781774620?users=true,5803,0,1
+1692943367232,623,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-13,text,false,,2435,143,89,361,http://localhost:8082/account/1685018781774620,623,0,0
+1692943367232,631,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-95,text,false,,2435,143,88,359,http://localhost:8082/account/1685018781774620,631,0,0
+1692943367236,627,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-66,text,false,,2435,143,87,358,http://localhost:8082/account/1685018781774620,627,0,0
+1692943367234,630,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-75,text,false,,2435,143,87,358,http://localhost:8082/account/1685018781774620,630,0,0
+1692943367232,649,HTTP Request,500,Internal Server Error,JMeter Rest 1-6,text,false,,2435,154,94,357,http://localhost:8082/account/1685018781774620?users=true,649,0,0
+1692943367232,650,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-67,text,false,,2435,143,86,356,http://localhost:8082/account/1685018781774620,650,0,0
+1692943367238,645,HTTP Request,500,Internal Server Error,JMeter Rest 1-78,text,false,,2435,154,93,356,http://localhost:8082/account/1685018781774620?users=true,645,0,0
+1692943367232,653,HTTP Request,500,Internal Server Error,JMeter Rest 1-38,text,false,,2435,154,93,356,http://localhost:8082/account/1685018781774620?users=true,653,0,0
+1692943366332,1564,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-79,text,false,,2711,143,86,354,http://localhost:8082/account/1685018781774620,1564,0,0
+1692943367288,613,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-25,text,false,,2435,143,86,354,http://localhost:8082/account/1685018781774620,613,0,0
+1692943367291,612,HTTP Request,500,Internal Server Error,JMeter Rest 1-47,text,false,,2435,154,92,353,http://localhost:8082/account/1685018781774620?users=true,612,0,0
+1692943366373,1532,HTTP Request,500,Internal Server Error,JMeter Rest 1-71,text,false,,2711,154,92,353,http://localhost:8082/account/1685018781774620?users=true,1532,0,0
+1692943367278,631,HTTP Request,500,Internal Server Error,JMeter Rest 1-89,text,false,,2435,154,91,352,http://localhost:8082/account/1685018781774620?users=true,631,0,0
+1692943367292,625,HTTP Request,500,Internal Server Error,JMeter Rest 1-43,text,false,,2435,154,91,352,http://localhost:8082/account/1685018781774620?users=true,625,0,0
+1692943367232,695,HTTP Request,500,Internal Server Error,JMeter Rest 1-10,text,false,,2435,154,90,351,http://localhost:8082/account/1685018781774620?users=true,695,0,0
+1692943367308,620,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-17,text,false,,2435,143,85,350,http://localhost:8082/account/1685018781774620,620,0,0
+1692943367316,616,HTTP Request,500,Internal Server Error,JMeter Rest 1-28,text,false,,2435,154,89,349,http://localhost:8082/account/1685018781774620?users=true,616,0,0
+1692943367232,702,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-62,text,false,,2435,143,84,349,http://localhost:8082/account/1685018781774620,702,0,0
+1692943364224,3711,HTTP Request,500,Internal Server Error,JMeter Rest 1-69,text,false,,2738,154,89,348,http://localhost:8082/account/1685018781774620?users=true,3711,0,0
+1692943366398,1548,HTTP Request,500,Internal Server Error,JMeter Rest 1-18,text,false,,2711,154,89,348,http://localhost:8082/account/1685018781774620?users=true,1548,0,0
+1692943367291,659,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-64,text,false,,2435,143,84,348,http://localhost:8082/account/1685018781774620,659,0,0
+1692943367329,630,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-73,text,false,,2435,143,84,348,http://localhost:8082/account/1685018781774620,630,0,0
+1692943367325,638,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-85,text,false,,2435,143,84,348,http://localhost:8082/account/1685018781774620,638,0,0
+1692943364984,2988,HTTP Request,200,OK,JMeter Rest without Users 2-59,text,true,,479,143,84,348,http://localhost:8082/account/1685018781774620,2988,0,0
+1692943367367,607,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-44,text,false,,2435,143,84,348,http://localhost:8082/account/1685018781774620,607,0,0
+1692943367336,646,HTTP Request,500,Internal Server Error,JMeter Rest 1-80,text,false,,2435,154,89,347,http://localhost:8082/account/1685018781774620?users=true,646,0,0
+1692943366479,1507,HTTP Request,500,Internal Server Error,JMeter Rest 1-22,text,false,,2711,154,89,346,http://localhost:8082/account/1685018781774620?users=true,1507,0,0
+1692943366534,1453,HTTP Request,500,Internal Server Error,JMeter Rest 1-84,text,false,,2711,154,89,346,http://localhost:8082/account/1685018781774620?users=true,1453,0,0
+1692943367358,633,HTTP Request,500,Internal Server Error,JMeter Rest 1-97,text,false,,2435,154,89,345,http://localhost:8082/account/1685018781774620?users=true,633,0,0
+1692943367365,633,HTTP Request,500,Internal Server Error,JMeter Rest 1-2,text,false,,2435,154,88,344,http://localhost:8082/account/1685018781774620?users=true,633,0,0
+1692943366452,1550,HTTP Request,500,Internal Server Error,JMeter Rest 1-65,text,false,,2711,154,87,343,http://localhost:8082/account/1685018781774620?users=true,1550,0,0
+1692943367343,668,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-16,text,false,,2435,143,83,342,http://localhost:8082/account/1685018781774620,668,0,0
+1692943367381,634,HTTP Request,500,Internal Server Error,JMeter Rest 1-52,text,false,,2435,154,86,341,http://localhost:8082/account/1685018781774620?users=true,634,0,0
+1692943367405,623,HTTP Request,500,Internal Server Error,JMeter Rest 1-49,text,false,,2435,154,85,339,http://localhost:8082/account/1685018781774620?users=true,623,0,0
+1692943367447,586,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-26,text,false,,2435,143,82,339,http://localhost:8082/account/1685018781774620,586,0,0
+1692943367397,638,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-69,text,false,,2435,143,81,338,http://localhost:8082/account/1685018781774620,638,0,0
+1692943363844,4194,HTTP Request,500,Internal Server Error,JMeter Rest 1-24,text,false,,2738,154,85,337,http://localhost:8082/account/1685018781774620?users=true,4194,0,0
+1692943366327,1719,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-6,text,false,,2711,143,80,337,http://localhost:8082/account/1685018781774620,1718,0,0
+1692943367420,631,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-15,text,false,,2435,143,80,337,http://localhost:8082/account/1685018781774620,631,0,0
+1692943366257,1803,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-33,text,false,,2711,143,80,337,http://localhost:8082/account/1685018781774620,1803,0,0
+1692943367446,620,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-21,text,false,,2435,143,79,336,http://localhost:8082/account/1685018781774620,620,0,0
+1692943364390,3694,HTTP Request,200,OK,JMeter Rest without Users 2-28,text,true,,479,143,79,336,http://localhost:8082/account/1685018781774620,3694,0,0
+1692943364729,3396,HTTP Request,200,OK,JMeter Rest without Users 2-42,text,true,,479,143,79,336,http://localhost:8082/account/1685018781774620,3396,0,0
+1692943364942,3186,HTTP Request,500,Internal Server Error,JMeter Rest 1-72,text,false,,2738,154,85,336,http://localhost:8082/account/1685018781774620?users=true,3186,0,0
+1692943366322,1808,HTTP Request,500,Internal Server Error,JMeter Rest 1-51,text,false,,2711,154,85,336,http://localhost:8082/account/1685018781774620?users=true,1808,0,0
+1692943362298,5856,HTTP Request,200,OK,JMeter Rest 1-48,text,true,,1011,154,85,335,http://localhost:8082/account/1685018781774620?users=true,5856,0,1
+1692943365383,2782,HTTP Request,200,OK,JMeter Rest without Users 2-70,text,true,,479,143,79,335,http://localhost:8082/account/1685018781774620,2782,0,0
+1692943364570,3615,HTTP Request,200,OK,JMeter Rest without Users 2-63,text,true,,479,143,79,335,http://localhost:8082/account/1685018781774620,3615,0,0
+1692943365401,2834,HTTP Request,200,OK,JMeter Rest without Users 2-3,text,true,,479,143,79,335,http://localhost:8082/account/1685018781774620,2834,0,0
+1692943364130,4080,HTTP Request,200,OK,JMeter Rest without Users 2-7,text,true,,479,143,79,335,http://localhost:8082/account/1685018781774620,4080,0,0
+1692943365420,2884,HTTP Request,200,OK,JMeter Rest without Users 2-86,text,true,,479,143,79,335,http://localhost:8082/account/1685018781774620,2884,0,0
+1692943365082,3240,HTTP Request,200,OK,JMeter Rest without Users 2-52,text,true,,479,143,79,335,http://localhost:8082/account/1685018781774620,3240,0,0
+1692943365416,2928,HTTP Request,200,OK,JMeter Rest without Users 2-50,text,true,,479,143,79,335,http://localhost:8082/account/1685018781774620,2928,0,0
+1692943367073,1288,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-94,text,false,,2711,143,79,335,http://localhost:8082/account/1685018781774620,1288,0,0
+1692943367934,502,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-62,text,false,,2435,143,78,333,http://localhost:8082/account/1685018781774620,502,0,0
+1692943367950,497,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-64,text,false,,2435,143,77,332,http://localhost:8082/account/1685018781774620,497,0,0
+1692943367936,523,HTTP Request,500,Internal Server Error,JMeter Rest 1-69,text,false,,2435,154,85,330,http://localhost:8082/account/1685018781774620?users=true,523,0,0
+1692943367232,1238,HTTP Request,500,Internal Server Error,JMeter Rest 1-33,text,false,,2711,154,85,330,http://localhost:8082/account/1685018781774620?users=true,1238,0,0
+1692943367231,1242,HTTP Request,500,Internal Server Error,JMeter Rest 1-3,text,false,,2711,154,85,329,http://localhost:8082/account/1685018781774620?users=true,1242,0,0
+1692943367986,505,HTTP Request,500,Internal Server Error,JMeter Rest 1-22,text,false,,2435,154,84,323,http://localhost:8082/account/1685018781774620?users=true,505,0,0
+1692943367232,1265,HTTP Request,500,Internal Server Error,JMeter Rest 1-53,text,false,,2711,154,83,321,http://localhost:8082/account/1685018781774620?users=true,1265,0,0
+1692943368028,470,HTTP Request,500,Internal Server Error,JMeter Rest 1-49,text,false,,2435,154,83,321,http://localhost:8082/account/1685018781774620?users=true,470,0,0
+1692943367982,537,HTTP Request,500,Internal Server Error,JMeter Rest 1-80,text,false,,2435,154,83,321,http://localhost:8082/account/1685018781774620?users=true,537,0,0
+1692943367963,566,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-85,text,false,,2435,143,77,320,http://localhost:8082/account/1685018781774620,566,0,0
+1692943367232,1302,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-98,text,false,,2711,143,76,319,http://localhost:8082/account/1685018781774620,1302,0,0
+1692943368046,499,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-6,text,false,,2435,143,76,319,http://localhost:8082/account/1685018781774620,499,0,0
+1692943362257,6301,HTTP Request,200,OK,JMeter Rest 1-44,text,true,,1011,154,83,317,http://localhost:8082/account/1685018781774620?users=true,6301,0,1
+1692943362079,6490,HTTP Request,200,OK,JMeter Rest 1-26,text,true,,1011,154,83,317,http://localhost:8082/account/1685018781774620?users=true,6490,0,0
+1692943368066,511,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-21,text,false,,2435,143,75,317,http://localhost:8082/account/1685018781774620,511,0,0
+1692943367310,1273,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-78,text,false,,2711,143,74,316,http://localhost:8082/account/1685018781774620,1273,0,0
+1692943364710,3878,HTTP Request,500,Internal Server Error,JMeter Rest 1-56,text,false,,2738,154,83,316,http://localhost:8082/account/1685018781774620?users=true,3878,0,0
+1692943367326,1266,HTTP Request,500,Internal Server Error,JMeter Rest 1-34,text,false,,2711,154,83,315,http://localhost:8082/account/1685018781774620?users=true,1266,0,0
+1692943362318,6285,HTTP Request,200,OK,JMeter Rest 1-50,text,true,,1011,154,82,314,http://localhost:8082/account/1685018781774620?users=true,6285,0,1
+1692943368051,555,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-15,text,false,,2435,143,74,314,http://localhost:8082/account/1685018781774620,555,0,0
+1692943367314,1296,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-20,text,false,,2711,143,73,313,http://localhost:8082/account/1685018781774620,1296,0,0
+1692943367382,1233,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-71,text,false,,2711,143,72,312,http://localhost:8082/account/1685018781774620,1233,0,0
+1692943368130,514,HTTP Request,500,Internal Server Error,JMeter Rest 1-51,text,false,,2435,154,82,312,http://localhost:8082/account/1685018781774620?users=true,514,0,0
+1692943368166,492,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-70,text,false,,2435,143,72,312,http://localhost:8082/account/1685018781774620,492,0,0
+1692943365882,2804,HTTP Request,200,OK,JMeter Rest without Users 2-92,text,true,,479,143,72,312,http://localhost:8082/account/1685018781774620,2804,0,0
+1692943367485,1204,HTTP Request,500,Internal Server Error,JMeter Rest 1-86,text,false,,2711,154,82,312,http://localhost:8082/account/1685018781774620?users=true,1204,0,0
+1692943362128,6625,HTTP Request,200,OK,JMeter Rest 1-31,text,true,,1011,154,82,312,http://localhost:8082/account/1685018781774620?users=true,6625,0,1
+1692943362268,6445,HTTP Request,200,OK,JMeter Rest 1-45,text,true,,1011,154,82,312,http://localhost:8082/account/1685018781774620?users=true,6445,0,1
+1692943365427,3295,HTTP Request,200,OK,JMeter Rest without Users 2-10,text,true,,479,143,72,312,http://localhost:8082/account/1685018781774620,3295,0,0
+1692943368306,481,HTTP Request,500,Internal Server Error,JMeter Rest without Users 2-86,text,false,,2435,143,72,312,http://localhost:8082/account/1685018781774620,481,0,0
+1692943364974,3834,HTTP Request,200,OK,JMeter Rest without Users 2-40,text,true,,479,143,72,312,http://localhost:8082/account/1685018781774620,3834,0,0
+1692943365947,2984,HTTP Request,200,OK,JMeter Rest without Users 2-48,text,true,,479,143,72,312,http://localhost:8082/account/1685018781774620,2984,0,0
+1692943367883,1098,HTTP Request,500,Internal Server Error,JMeter Rest 1-78,text,false,,2711,154,82,312,http://localhost:8082/account/1685018781774620?users=true,1098,0,0
+1692943366211,2807,HTTP Request,200,OK,JMeter Rest without Users 2-74,text,true,,479,143,72,312,http://localhost:8082/account/1685018781774620,2807,0,0
+1692943365912,3111,HTTP Request,200,OK,JMeter Rest without Users 2-43,text,true,,479,143,72,312,http://localhost:8082/account/1685018781774620,3111,0,0
+1692943364783,4331,HTTP Request,200,OK,JMeter Rest without Users 2-49,text,true,,479,143,72,311,http://localhost:8082/account/1685018781774620,4331,0,0
+1692943368589,529,HTTP Request,500,Internal Server Error,JMeter Rest 1-56,text,false,,2435,154,82,311,http://localhost:8082/account/1685018781774620?users=true,529,0,0
+1692943362477,6841,HTTP Request,200,OK,JMeter Rest 1-66,text,true,,1011,154,82,310,http://localhost:8082/account/1685018781774620?users=true,6841,0,1
+1692943362578,6731,HTTP Request,200,OK,JMeter Rest 1-76,text,true,,1011,154,82,310,http://localhost:8082/account/1685018781774620?users=true,6731,0,0
+1692943365423,3874,HTTP Request,200,OK,JMeter Rest without Users 2-88,text,true,,479,143,72,310,http://localhost:8082/account/1685018781774620,3874,0,0
+1692943362962,6267,HTTP Request,200,OK,JMeter Rest 1-32,text,true,,1011,154,82,310,http://localhost:8082/account/1685018781774620?users=true,6267,0,0
+1692943362419,6955,HTTP Request,200,OK,JMeter Rest 1-60,text,true,,1011,154,82,310,http://localhost:8082/account/1685018781774620?users=true,6955,0,1
+1692943362368,7031,HTTP Request,200,OK,JMeter Rest 1-55,text,true,,1011,154,82,310,http://localhost:8082/account/1685018781774620?users=true,7031,0,1
+1692943365399,4230,HTTP Request,200,OK,JMeter Rest without Users 2-5,text,true,,479,143,72,310,http://localhost:8082/account/1685018781774620,4230,0,0
+1692943365759,4319,HTTP Request,200,OK,JMeter Rest without Users 2-54,text,true,,479,143,72,309,http://localhost:8082/account/1685018781774620,4319,0,0
+1692943366731,3452,HTTP Request,200,OK,JMeter Rest without Users 2-32,text,true,,479,143,72,309,http://localhost:8082/account/1685018781774620,3452,0,0
+1692943362588,7633,HTTP Request,200,OK,JMeter Rest 1-77,text,true,,1011,154,82,308,http://localhost:8082/account/1685018781774620?users=true,7633,0,0
+1692943366043,4186,HTTP Request,200,OK,JMeter Rest without Users 2-2,text,true,,479,143,71,308,http://localhost:8082/account/1685018781774620,4186,0,0
+1692943365403,4897,HTTP Request,200,OK,JMeter Rest without Users 2-8,text,true,,479,143,71,307,http://localhost:8082/account/1685018781774620,4897,0,0
+1692943364386,5908,HTTP Request,200,OK,JMeter Rest 1-12,text,true,,1011,154,82,307,http://localhost:8082/account/1685018781774620?users=true,5908,0,0
+1692943366054,4199,HTTP Request,200,OK,JMeter Rest without Users 2-84,text,true,,479,143,71,308,http://localhost:8082/account/1685018781774620,4199,0,0
+1692943366211,4115,HTTP Request,200,OK,JMeter Rest without Users 2-89,text,true,,479,143,71,307,http://localhost:8082/account/1685018781774620,4115,0,0
+1692943366314,4055,HTTP Request,200,OK,JMeter Rest without Users 2-30,text,true,,479,143,71,307,http://localhost:8082/account/1685018781774620,4055,0,0
+1692943362698,7703,HTTP Request,200,OK,JMeter Rest 1-88,text,true,,1011,154,82,306,http://localhost:8082/account/1685018781774620?users=true,7703,0,1
+1692943362649,7775,HTTP Request,200,OK,JMeter Rest 1-83,text,true,,1011,154,82,306,http://localhost:8082/account/1685018781774620?users=true,7775,0,0
+1692943367561,2983,HTTP Request,200,OK,JMeter Rest without Users 2-36,text,true,,479,143,70,306,http://localhost:8082/account/1685018781774620,2983,0,0
+1692943366211,4344,HTTP Request,200,OK,JMeter Rest without Users 2-82,text,true,,479,143,69,305,http://localhost:8082/account/1685018781774620,4344,0,0
+1692943366388,4245,HTTP Request,200,OK,JMeter Rest without Users 2-61,text,true,,479,143,69,305,http://localhost:8082/account/1685018781774620,4245,0,0
+1692943365888,4905,HTTP Request,200,OK,JMeter Rest without Users 2-60,text,true,,479,143,69,305,http://localhost:8082/account/1685018781774620,4905,0,0
+1692943363977,6812,HTTP Request,200,OK,JMeter Rest 1-19,text,true,,1011,154,82,305,http://localhost:8082/account/1685018781774620?users=true,6812,0,0
+1692943364012,6757,HTTP Request,200,OK,JMeter Rest 1-40,text,true,,1011,154,82,305,http://localhost:8082/account/1685018781774620?users=true,6757,0,0
+1692943363551,7333,HTTP Request,200,OK,JMeter Rest 1-82,text,true,,1011,154,82,305,http://localhost:8082/account/1685018781774620?users=true,7333,0,0
+1692943363521,7470,HTTP Request,200,OK,JMeter Rest 1-81,text,true,,1011,154,82,305,http://localhost:8082/account/1685018781774620?users=true,7470,0,0
+1692943366738,4291,HTTP Request,200,OK,JMeter Rest without Users 2-39,text,true,,479,143,69,305,http://localhost:8082/account/1685018781774620,4291,0,0
+1692943367071,3967,HTTP Request,200,OK,JMeter Rest without Users 2-96,text,true,,479,143,69,305,http://localhost:8082/account/1685018781774620,3967,0,0
+1692943366259,4794,HTTP Request,200,OK,JMeter Rest without Users 2-90,text,true,,479,143,68,304,http://localhost:8082/account/1685018781774620,4794,0,0
+1692943366394,4671,HTTP Request,200,OK,JMeter Rest without Users 2-27,text,true,,479,143,68,304,http://localhost:8082/account/1685018781774620,4671,0,0
+1692943366241,4833,HTTP Request,200,OK,JMeter Rest without Users 2-34,text,true,,479,143,67,303,http://localhost:8082/account/1685018781774620,4833,0,0
+1692943366393,4842,HTTP Request,200,OK,JMeter Rest without Users 2-65,text,true,,479,143,66,301,http://localhost:8082/account/1685018781774620,4842,0,0
+1692943366908,4366,HTTP Request,200,OK,JMeter Rest without Users 2-99,text,true,,479,143,66,301,http://localhost:8082/account/1685018781774620,4366,0,0
+1692943367778,3559,HTTP Request,200,OK,JMeter Rest without Users 2-87,text,true,,479,143,66,301,http://localhost:8082/account/1685018781774620,3559,0,0
+1692943366461,4920,HTTP Request,200,OK,JMeter Rest without Users 2-83,text,true,,479,143,65,300,http://localhost:8082/account/1685018781774620,4920,0,0
+1692943366497,4957,HTTP Request,200,OK,JMeter Rest without Users 2-46,text,true,,479,143,65,299,http://localhost:8082/account/1685018781774620,4957,0,0
+1692943366359,5100,HTTP Request,200,OK,JMeter Rest without Users 2-4,text,true,,479,143,65,299,http://localhost:8082/account/1685018781774620,5100,0,0
+1692943366735,4744,HTTP Request,200,OK,JMeter Rest without Users 2-1,text,true,,479,143,64,298,http://localhost:8082/account/1685018781774620,4744,0,0
+1692943367232,4251,HTTP Request,200,OK,JMeter Rest without Users 2-97,text,true,,479,143,64,298,http://localhost:8082/account/1685018781774620,4251,0,0
+1692943363567,8061,HTTP Request,200,OK,JMeter Rest 1-90,text,true,,1011,154,82,296,http://localhost:8082/account/1685018781774620?users=true,8061,0,0
+1692943363531,8114,HTTP Request,200,OK,JMeter Rest 1-94,text,true,,1011,154,82,296,http://localhost:8082/account/1685018781774620?users=true,8114,0,0
+1692943363662,8005,HTTP Request,200,OK,JMeter Rest 1-96,text,true,,1011,154,82,296,http://localhost:8082/account/1685018781774620?users=true,8005,0,0
+1692943366722,4953,HTTP Request,200,OK,JMeter Rest without Users 2-18,text,true,,479,143,63,295,http://localhost:8082/account/1685018781774620,4953,0,0
+1692943367009,4672,HTTP Request,200,OK,JMeter Rest without Users 2-45,text,true,,479,143,62,294,http://localhost:8082/account/1685018781774620,4672,0,0
+1692943366878,4815,HTTP Request,200,OK,JMeter Rest without Users 2-38,text,true,,479,143,62,293,http://localhost:8082/account/1685018781774620,4815,0,0
+1692943367432,4301,HTTP Request,200,OK,JMeter Rest without Users 2-58,text,true,,479,143,62,293,http://localhost:8082/account/1685018781774620,4300,0,0
+1692943366736,5030,HTTP Request,200,OK,JMeter Rest without Users 2-91,text,true,,479,143,62,293,http://localhost:8082/account/1685018781774620,5030,0,0
+1692943367109,4692,HTTP Request,200,OK,JMeter Rest without Users 2-11,text,true,,479,143,62,293,http://localhost:8082/account/1685018781774620,4692,0,0
+1692943367882,4118,HTTP Request,200,OK,JMeter Rest without Users 2-67,text,true,,479,143,61,290,http://localhost:8082/account/1685018781774620,4117,0,0
+1692943366723,5292,HTTP Request,200,OK,JMeter Rest without Users 2-53,text,true,,479,143,61,290,http://localhost:8082/account/1685018781774620,5292,0,0
+1692943367674,4348,HTTP Request,200,OK,JMeter Rest without Users 2-14,text,true,,479,143,61,290,http://localhost:8082/account/1685018781774620,4348,0,0
+1692943367401,4765,HTTP Request,200,OK,JMeter Rest without Users 2-29,text,true,,479,143,61,290,http://localhost:8082/account/1685018781774620,4765,0,0
+1692943364608,7732,HTTP Request,200,OK,JMeter Rest 1-74,text,true,,1011,154,82,288,http://localhost:8082/account/1685018781774620?users=true,7732,0,0
+1692943367096,5238,HTTP Request,200,OK,JMeter Rest without Users 2-80,text,true,,479,143,60,288,http://localhost:8082/account/1685018781774620,5238,0,0
+1692943367369,4962,HTTP Request,200,OK,JMeter Rest without Users 2-19,text,true,,479,143,60,288,http://localhost:8082/account/1685018781774620,4962,0,0
+1692943367123,5205,HTTP Request,200,OK,JMeter Rest without Users 2-72,text,true,,479,143,60,288,http://localhost:8082/account/1685018781774620,5205,0,0
+1692943368448,3874,HTTP Request,200,OK,JMeter Rest without Users 2-64,text,true,,479,143,60,288,http://localhost:8082/account/1685018781774620,3874,0,0
+1692943364405,8000,HTTP Request,200,OK,JMeter Rest 1-29,text,true,,1011,154,82,286,http://localhost:8082/account/1685018781774620?users=true,8000,0,0
+1692943368809,3601,HTTP Request,200,OK,JMeter Rest without Users 2-40,text,true,,479,143,59,286,http://localhost:8082/account/1685018781774620,3601,0,0
+1692943367304,5276,HTTP Request,200,OK,JMeter Rest without Users 2-37,text,true,,479,143,59,284,http://localhost:8082/account/1685018781774620,5276,0,0
+1692943367587,5042,HTTP Request,200,OK,JMeter Rest without Users 2-100,text,true,,479,143,58,283,http://localhost:8082/account/1685018781774620,5042,0,0
+1692943368085,4553,HTTP Request,200,OK,JMeter Rest without Users 2-28,text,true,,479,143,58,283,http://localhost:8082/account/1685018781774620,4553,0,0
+1692943364412,8357,HTTP Request,200,OK,JMeter Rest 1-87,text,true,,1011,154,82,281,http://localhost:8082/account/1685018781774620?users=true,8356,0,0
+1692943367864,4918,HTTP Request,200,OK,JMeter Rest without Users 2-66,text,true,,479,143,57,281,http://localhost:8082/account/1685018781774620,4918,0,0
+1692943367575,5320,HTTP Request,200,OK,JMeter Rest without Users 2-35,text,true,,479,143,57,280,http://localhost:8082/account/1685018781774620,5320,0,0
+1692943367656,5277,HTTP Request,200,OK,JMeter Rest without Users 2-81,text,true,,479,143,57,280,http://localhost:8082/account/1685018781774620,5277,0,0
+1692943367534,5407,HTTP Request,200,OK,JMeter Rest without Users 2-76,text,true,,479,143,57,280,http://localhost:8082/account/1685018781774620,5407,0,0
+1692943367430,5534,HTTP Request,200,OK,JMeter Rest without Users 2-47,text,true,,479,143,57,280,http://localhost:8082/account/1685018781774620,5534,0,0
+1692943367152,5855,HTTP Request,200,OK,JMeter Rest without Users 2-41,text,true,,479,143,56,278,http://localhost:8082/account/1685018781774620,5855,0,0
+1692943367896,5141,HTTP Request,200,OK,JMeter Rest without Users 2-79,text,true,,479,143,56,278,http://localhost:8082/account/1685018781774620,5141,0,0
+1692943368345,4699,HTTP Request,200,OK,JMeter Rest without Users 2-50,text,true,,479,143,56,278,http://localhost:8082/account/1685018781774620,4699,0,0
+1692943368266,4784,HTTP Request,200,OK,JMeter Rest without Users 2-3,text,true,,479,143,56,278,http://localhost:8082/account/1685018781774620,4784,0,0
+1692943367469,5598,HTTP Request,200,OK,JMeter Rest without Users 2-77,text,true,,479,143,55,277,http://localhost:8082/account/1685018781774620,5598,0,0
+1692943364531,8548,HTTP Request,200,OK,JMeter Rest 1-11,text,true,,1011,154,82,277,http://localhost:8082/account/1685018781774620?users=true,8548,0,0
+1692943364438,8672,HTTP Request,200,OK,JMeter Rest 1-85,text,true,,1011,154,82,277,http://localhost:8082/account/1685018781774620?users=true,8672,0,0
+1692943367973,5154,HTTP Request,200,OK,JMeter Rest without Users 2-59,text,true,,479,143,55,277,http://localhost:8082/account/1685018781774620,5154,0,0
+1692943368186,4955,HTTP Request,200,OK,JMeter Rest without Users 2-63,text,true,,479,143,55,277,http://localhost:8082/account/1685018781774620,4955,0,0
+1692943364567,8621,HTTP Request,200,OK,JMeter Rest 1-7,text,true,,1011,154,82,277,http://localhost:8082/account/1685018781774620?users=true,8621,0,0
+1692943367476,5834,HTTP Request,200,OK,JMeter Rest without Users 2-56,text,true,,479,143,55,276,http://localhost:8082/account/1685018781774620,5834,0,0
+1692943368266,5349,HTTP Request,200,OK,JMeter Rest without Users 2-7,text,true,,479,143,55,274,http://localhost:8082/account/1685018781774620,5349,0,0
+1692943367960,5730,HTTP Request,200,OK,JMeter Rest without Users 2-73,text,true,,479,143,55,274,http://localhost:8082/account/1685018781774620,5730,0,0
+1692943370229,3476,HTTP Request,200,OK,JMeter Rest without Users 2-2,text,true,,479,143,55,273,http://localhost:8082/account/1685018781774620,3476,0,0
+1692943368932,4817,HTTP Request,200,OK,JMeter Rest without Users 2-48,text,true,,479,143,55,273,http://localhost:8082/account/1685018781774620,4817,0,0
+1692943368126,5636,HTTP Request,200,OK,JMeter Rest without Users 2-42,text,true,,479,143,55,273,http://localhost:8082/account/1685018781774620,5636,0,0
+1692943370317,3601,HTTP Request,200,OK,JMeter Rest without Users 2-84,text,true,,479,143,55,273,http://localhost:8082/account/1685018781774620,3601,0,0
+1692943364797,9177,HTTP Request,200,OK,JMeter Rest 1-21,text,true,,1011,154,82,273,http://localhost:8082/account/1685018781774620?users=true,9177,0,0
+1692943370555,3596,HTTP Request,200,OK,JMeter Rest without Users 2-82,text,true,,479,143,55,272,http://localhost:8082/account/1685018781774620,3596,0,0
+1692943368584,5629,HTTP Request,200,OK,JMeter Rest without Users 2-78,text,true,,479,143,55,271,http://localhost:8082/account/1685018781774620,5629,0,0
+1692943364426,9829,HTTP Request,200,OK,JMeter Rest 1-79,text,true,,1011,154,82,271,http://localhost:8082/account/1685018781774620?users=true,9829,0,0
+1692943365434,8833,HTTP Request,200,OK,JMeter Rest 1-14,text,true,,1011,154,82,271,http://localhost:8082/account/1685018781774620?users=true,8833,0,0
+1692943368766,5591,HTTP Request,200,OK,JMeter Rest without Users 2-10,text,true,,479,143,55,271,http://localhost:8082/account/1685018781774620,5591,0,0
+1692943368534,5872,HTTP Request,200,OK,JMeter Rest without Users 2-98,text,true,,479,143,54,270,http://localhost:8082/account/1685018781774620,5872,0,0
+1692943369630,4791,HTTP Request,200,OK,JMeter Rest without Users 2-5,text,true,,479,143,53,269,http://localhost:8082/account/1685018781774620,4791,0,0
+1692943368687,5761,HTTP Request,200,OK,JMeter Rest without Users 2-92,text,true,,479,143,52,268,http://localhost:8082/account/1685018781774620,5761,0,0
+1692943368615,5856,HTTP Request,200,OK,JMeter Rest without Users 2-71,text,true,,479,143,52,268,http://localhost:8082/account/1685018781774620,5856,0,0
+1692943368323,6234,HTTP Request,200,OK,JMeter Rest without Users 2-52,text,true,,479,143,51,267,http://localhost:8082/account/1685018781774620,6234,0,0
+1692943369018,5546,HTTP Request,200,OK,JMeter Rest without Users 2-74,text,true,,479,143,51,267,http://localhost:8082/account/1685018781774620,5546,0,0
+1692943368787,5807,HTTP Request,200,OK,JMeter Rest without Users 2-86,text,true,,479,143,51,267,http://localhost:8082/account/1685018781774620,5807,0,0
+1692943366260,8434,HTTP Request,200,OK,JMeter Rest 1-70,text,true,,1011,154,82,265,http://localhost:8082/account/1685018781774620?users=true,8434,0,0
+1692943371029,3756,HTTP Request,200,OK,JMeter Rest without Users 2-39,text,true,,479,143,50,264,http://localhost:8082/account/1685018781774620,3756,0,0
+1692943369115,5832,HTTP Request,200,OK,JMeter Rest without Users 2-49,text,true,,479,143,49,263,http://localhost:8082/account/1685018781774620,5832,0,0
+1692943369024,5979,HTTP Request,200,OK,JMeter Rest without Users 2-43,text,true,,479,143,49,262,http://localhost:8082/account/1685018781774620,5979,0,0
+1692943364539,10480,HTTP Request,200,OK,JMeter Rest 1-95,text,true,,1011,154,82,261,http://localhost:8082/account/1685018781774620?users=true,10480,0,0
+1692943364560,10487,HTTP Request,200,OK,JMeter Rest 1-4,text,true,,1011,154,82,261,http://localhost:8082/account/1685018781774620?users=true,10487,0,0
+1692943368658,6411,HTTP Request,200,OK,JMeter Rest without Users 2-70,text,true,,479,143,49,261,http://localhost:8082/account/1685018781774620,6411,0,0
+1692943370080,5099,HTTP Request,200,OK,JMeter Rest without Users 2-54,text,true,,479,143,49,261,http://localhost:8082/account/1685018781774620,5099,0,0
+1692943371335,3954,HTTP Request,200,OK,JMeter Rest without Users 2-99,text,true,,479,143,49,261,http://localhost:8082/account/1685018781774620,3954,0,0
+1692943369321,5992,HTTP Request,200,OK,JMeter Rest without Users 2-88,text,true,,479,143,49,261,http://localhost:8082/account/1685018781774620,5992,0,0
+1692943365426,9896,HTTP Request,200,OK,JMeter Rest 1-98,text,true,,1011,154,82,261,http://localhost:8082/account/1685018781774620?users=true,9896,0,0
+1692943370317,5127,HTTP Request,200,OK,JMeter Rest without Users 2-8,text,true,,479,143,49,260,http://localhost:8082/account/1685018781774620,5127,0,0
+1692943365459,10018,HTTP Request,200,OK,JMeter Rest 1-15,text,true,,1011,154,82,259,http://localhost:8082/account/1685018781774620?users=true,10018,0,0
+1692943371453,4207,HTTP Request,200,OK,JMeter Rest without Users 2-46,text,true,,479,143,48,258,http://localhost:8082/account/1685018781774620,4207,0,0
+1692943365465,10327,HTTP Request,200,OK,JMeter Rest 1-30,text,true,,1011,154,82,257,http://localhost:8082/account/1685018781774620?users=true,10327,0,0
+1692943372021,4039,HTTP Request,200,OK,JMeter Rest without Users 2-14,text,true,,479,143,47,253,http://localhost:8082/account/1685018781774620,4039,0,0
+1692943371999,4078,HTTP Request,200,OK,JMeter Rest without Users 2-67,text,true,,479,143,47,253,http://localhost:8082/account/1685018781774620,4078,0,0
+1692943367843,8279,HTTP Request,200,OK,JMeter Rest 1-58,text,true,,1011,154,81,252,http://localhost:8082/account/1685018781774620?users=true,8279,0,0
+1692943365396,10976,HTTP Request,200,OK,JMeter Rest 1-93,text,true,,1011,154,80,249,http://localhost:8082/account/1685018781774620?users=true,10976,0,0
+1692943368570,7974,HTTP Request,200,OK,JMeter Rest 1-26,text,true,,1011,154,80,249,http://localhost:8082/account/1685018781774620?users=true,7974,0,0
+1692943367072,9497,HTTP Request,200,OK,JMeter Rest 1-41,text,true,,1011,154,80,249,http://localhost:8082/account/1685018781774620?users=true,9497,0,0
+1692943365395,11190,HTTP Request,200,OK,JMeter Rest 1-36,text,true,,1011,154,79,248,http://localhost:8082/account/1685018781774620?users=true,11190,0,0
+1692943365891,10714,HTTP Request,200,OK,JMeter Rest 1-63,text,true,,1011,154,79,248,http://localhost:8082/account/1685018781774620?users=true,10714,0,0
+1692943366282,10441,HTTP Request,200,OK,JMeter Rest 1-67,text,true,,1011,154,79,247,http://localhost:8082/account/1685018781774620?users=true,10441,0,0
+1692943370326,6495,HTTP Request,200,OK,JMeter Rest without Users 2-89,text,true,,479,143,46,245,http://localhost:8082/account/1685018781774620,6495,0,0
+1692943371380,5445,HTTP Request,200,OK,JMeter Rest without Users 2-83,text,true,,479,143,46,245,http://localhost:8082/account/1685018781774620,5445,0,0
+1692943366723,10112,HTTP Request,200,OK,JMeter Rest 1-1,text,true,,1011,154,79,245,http://localhost:8082/account/1685018781774620?users=true,10112,0,0
+1692943367288,9597,HTTP Request,200,OK,JMeter Rest 1-99,text,true,,1011,154,79,244,http://localhost:8082/account/1685018781774620?users=true,9597,0,0
+1692943366245,10684,HTTP Request,200,OK,JMeter Rest 1-20,text,true,,1011,154,78,243,http://localhost:8082/account/1685018781774620?users=true,10684,0,0
+1692943367617,9462,HTTP Request,200,OK,JMeter Rest 1-9,text,true,,1011,154,78,243,http://localhost:8082/account/1685018781774620?users=true,9462,0,0
+1692943367124,10124,HTTP Request,200,OK,JMeter Rest 1-27,text,true,,1011,154,78,243,http://localhost:8082/account/1685018781774620?users=true,10124,0,0
+1692943367406,9881,HTTP Request,200,OK,JMeter Rest 1-59,text,true,,1011,154,77,241,http://localhost:8082/account/1685018781774620?users=true,9881,0,0
+1692943370633,6657,HTTP Request,200,OK,JMeter Rest without Users 2-61,text,true,,479,143,46,241,http://localhost:8082/account/1685018781774620,6657,0,0
+1692943367403,9897,HTTP Request,200,OK,JMeter Rest 1-17,text,true,,1011,154,77,240,http://localhost:8082/account/1685018781774620?users=true,9897,0,0
+1692943366245,11064,HTTP Request,200,OK,JMeter Rest 1-42,text,true,,1011,154,77,240,http://localhost:8082/account/1685018781774620?users=true,11064,0,0
+1692943366252,11140,HTTP Request,200,OK,JMeter Rest 1-100,text,true,,1011,154,76,238,http://localhost:8082/account/1685018781774620?users=true,11140,0,0
+1692943370807,6566,HTTP Request,200,OK,JMeter Rest without Users 2-60,text,true,,479,143,46,238,http://localhost:8082/account/1685018781774620,6566,0,0
+1692943367027,10341,HTTP Request,200,OK,JMeter Rest 1-5,text,true,,1011,154,76,238,http://localhost:8082/account/1685018781774620?users=true,10340,0,0
+1692943371478,5943,HTTP Request,200,OK,JMeter Rest without Users 2-1,text,true,,479,143,46,238,http://localhost:8082/account/1685018781774620,5943,0,0
+1692943371766,5670,HTTP Request,200,OK,JMeter Rest without Users 2-91,text,true,,479,143,45,237,http://localhost:8082/account/1685018781774620,5670,0,0
+1692943371053,6388,HTTP Request,200,OK,JMeter Rest without Users 2-90,text,true,,479,143,45,237,http://localhost:8082/account/1685018781774620,6388,0,0
+1692943367085,10426,HTTP Request,200,OK,JMeter Rest 1-39,text,true,,1011,154,76,236,http://localhost:8082/account/1685018781774620?users=true,10426,0,0
+1692943365688,11990,HTTP Request,200,OK,JMeter Rest 1-57,text,true,,1011,154,75,235,http://localhost:8082/account/1685018781774620?users=true,11990,0,0
+1692943367786,9975,HTTP Request,200,OK,JMeter Rest 1-8,text,true,,1011,154,75,233,http://localhost:8082/account/1685018781774620?users=true,9975,0,0
+1692943371235,6607,HTTP Request,200,OK,JMeter Rest without Users 2-65,text,true,,479,143,44,232,http://localhost:8082/account/1685018781774620,6607,0,0
+1692943367822,10063,HTTP Request,200,OK,JMeter Rest 1-62,text,true,,1011,154,74,232,http://localhost:8082/account/1685018781774620?users=true,10063,0,0
+1692943371732,6210,HTTP Request,200,OK,JMeter Rest without Users 2-58,text,true,,479,143,44,231,http://localhost:8082/account/1685018781774620,6210,0,0
+1692943373367,4608,HTTP Request,200,OK,JMeter Rest without Users 2-56,text,true,,479,143,43,230,http://localhost:8082/account/1685018781774620,4608,0,0
+1692943371693,6399,HTTP Request,200,OK,JMeter Rest without Users 2-38,text,true,,479,143,43,228,http://localhost:8082/account/1685018781774620,6399,0,0
+1692943372382,5716,HTTP Request,200,OK,JMeter Rest without Users 2-80,text,true,,479,143,43,228,http://localhost:8082/account/1685018781774620,5716,0,0
+1692943371680,6424,HTTP Request,200,OK,JMeter Rest without Users 2-45,text,true,,479,143,42,227,http://localhost:8082/account/1685018781774620,6424,0,0
+1692943372382,5730,HTTP Request,200,OK,JMeter Rest without Users 2-19,text,true,,479,143,42,227,http://localhost:8082/account/1685018781774620,5730,0,0
+1692943372382,5740,HTTP Request,200,OK,JMeter Rest without Users 2-72,text,true,,479,143,41,226,http://localhost:8082/account/1685018781774620,5740,0,0
+1692943372015,6141,HTTP Request,200,OK,JMeter Rest without Users 2-53,text,true,,479,143,40,225,http://localhost:8082/account/1685018781774620,6141,0,0
+1692943372409,5830,HTTP Request,200,OK,JMeter Rest without Users 2-40,text,true,,479,143,39,224,http://localhost:8082/account/1685018781774620,5830,0,0
+1692943367312,10959,HTTP Request,200,OK,JMeter Rest 1-68,text,true,,1011,154,74,224,http://localhost:8082/account/1685018781774620?users=true,10959,0,0
+1692943367778,10677,HTTP Request,200,OK,JMeter Rest 1-75,text,true,,1011,154,74,224,http://localhost:8082/account/1685018781774620?users=true,10677,0,0
+1692943367300,11228,HTTP Request,200,OK,JMeter Rest 1-91,text,true,,1011,154,73,223,http://localhost:8082/account/1685018781774620?users=true,11228,0,0
+1692943372932,5599,HTTP Request,200,OK,JMeter Rest without Users 2-81,text,true,,479,143,39,222,http://localhost:8082/account/1685018781774620,5599,0,0
+1692943373044,5554,HTTP Request,200,OK,JMeter Rest without Users 2-50,text,true,,479,143,38,220,http://localhost:8082/account/1685018781774620,5554,0,0
+1692943368129,10525,HTTP Request,200,OK,JMeter Rest 1-72,text,true,,1011,154,72,219,http://localhost:8082/account/1685018781774620?users=true,10525,0,0
+1692943373140,5592,HTTP Request,200,OK,JMeter Rest without Users 2-63,text,true,,479,143,38,219,http://localhost:8082/account/1685018781774620,5592,0,0
+1692943373066,5672,HTTP Request,200,OK,JMeter Rest without Users 2-77,text,true,,479,143,38,219,http://localhost:8082/account/1685018781774620,5672,0,0
+1692943367114,11651,HTTP Request,200,OK,JMeter Rest 1-25,text,true,,1011,154,72,219,http://localhost:8082/account/1685018781774620?users=true,11651,0,0
+1692943366722,12414,HTTP Request,200,OK,JMeter Rest 1-73,text,true,,1011,154,72,217,http://localhost:8082/account/1685018781774620?users=true,12414,0,0
+1692943367232,11957,HTTP Request,200,OK,JMeter Rest 1-92,text,true,,1011,154,72,214,http://localhost:8082/account/1685018781774620?users=true,11957,0,0
+1692943373689,5524,HTTP Request,200,OK,JMeter Rest without Users 2-73,text,true,,479,143,38,214,http://localhost:8082/account/1685018781774620,5524,0,0
+1692943373748,5477,HTTP Request,200,OK,JMeter Rest without Users 2-48,text,true,,479,143,37,213,http://localhost:8082/account/1685018781774620,5477,0,0
+1692943367444,11849,HTTP Request,200,OK,JMeter Rest 1-13,text,true,,1011,154,72,211,http://localhost:8082/account/1685018781774620?users=true,11849,0,0
+1692943373918,5444,HTTP Request,200,OK,JMeter Rest without Users 2-84,text,true,,479,143,36,210,http://localhost:8082/account/1685018781774620,5444,0,0
+1692943373761,5721,HTTP Request,200,OK,JMeter Rest without Users 2-42,text,true,,479,143,35,209,http://localhost:8082/account/1685018781774620,5721,0,0
+1692943373036,6491,HTTP Request,200,OK,JMeter Rest without Users 2-79,text,true,,479,143,34,207,http://localhost:8082/account/1685018781774620,6491,0,0
+1692943372628,6929,HTTP Request,200,OK,JMeter Rest without Users 2-100,text,true,,479,143,34,207,http://localhost:8082/account/1685018781774620,6929,0,0
+1692943368039,11531,HTTP Request,200,OK,JMeter Rest 1-24,text,true,,1011,154,72,207,http://localhost:8082/account/1685018781774620?users=true,11531,0,0
+1692943369118,10467,HTTP Request,200,OK,JMeter Rest 1-56,text,true,,1011,154,72,207,http://localhost:8082/account/1685018781774620?users=true,10467,0,0
+1692943367909,11695,HTTP Request,200,OK,JMeter Rest 1-89,text,true,,1011,154,71,206,http://localhost:8082/account/1685018781774620?users=true,11695,0,0
+1692943367459,12195,HTTP Request,200,OK,JMeter Rest 1-64,text,true,,1011,154,71,206,http://localhost:8082/account/1685018781774620?users=true,12195,0,0
+1692943373614,6197,HTTP Request,200,OK,JMeter Rest without Users 2-7,text,true,,479,143,34,204,http://localhost:8082/account/1685018781774620,6197,0,0
+1692943367853,11980,HTTP Request,200,OK,JMeter Rest 1-23,text,true,,1011,154,71,202,http://localhost:8082/account/1685018781774620?users=true,11980,0,0
+1692943368459,11383,HTTP Request,200,OK,JMeter Rest 1-69,text,true,,1011,154,71,202,http://localhost:8082/account/1685018781774620?users=true,11383,0,0
+1692943375002,4945,HTTP Request,200,OK,JMeter Rest without Users 2-43,text,true,,479,143,33,201,http://localhost:8082/account/1685018781774620,4945,0,0
+1692943368982,11013,HTTP Request,200,OK,JMeter Rest 1-78,text,true,,1011,154,71,200,http://localhost:8082/account/1685018781774620?users=true,11013,0,0
+1692943368470,11531,HTTP Request,200,OK,JMeter Rest 1-33,text,true,,1011,154,70,199,http://localhost:8082/account/1685018781774620?users=true,11531,0,0
+1692943372940,7194,HTTP Request,200,OK,JMeter Rest without Users 2-76,text,true,,479,143,32,198,http://localhost:8082/account/1685018781774620,7194,0,0
+1692943374151,5989,HTTP Request,200,OK,JMeter Rest without Users 2-82,text,true,,479,143,32,198,http://localhost:8082/account/1685018781774620,5989,0,0
+1692943368155,12002,HTTP Request,200,OK,JMeter Rest 1-48,text,true,,1011,154,70,197,http://localhost:8082/account/1685018781774620?users=true,12002,0,0
+1692943367946,12227,HTTP Request,200,OK,JMeter Rest 1-18,text,true,,1011,154,70,197,http://localhost:8082/account/1685018781774620?users=true,12227,0,0
+1692943374212,6000,HTTP Request,200,OK,JMeter Rest without Users 2-78,text,true,,479,143,31,197,http://localhost:8082/account/1685018781774620,6000,0,0
+1692943368766,11459,HTTP Request,200,OK,JMeter Rest 1-45,text,true,,1011,154,70,196,http://localhost:8082/account/1685018781774620?users=true,11459,0,0
+1692943372895,7381,HTTP Request,200,OK,JMeter Rest without Users 2-35,text,true,,479,143,30,196,http://localhost:8082/account/1685018781774620,7381,0,0
+1692943367987,12394,HTTP Request,200,OK,JMeter Rest 1-84,text,true,,1011,154,70,196,http://localhost:8082/account/1685018781774620?users=true,12394,0,0
+1692943374946,5479,HTTP Request,200,OK,JMeter Rest without Users 2-49,text,true,,479,143,30,195,http://localhost:8082/account/1685018781774620,5479,0,0
+1692943368559,11859,HTTP Request,200,OK,JMeter Rest 1-44,text,true,,1011,154,69,195,http://localhost:8082/account/1685018781774620?users=true,11859,0,0
+1692943375289,5178,HTTP Request,200,OK,JMeter Rest without Users 2-99,text,true,,479,143,29,193,http://localhost:8082/account/1685018781774620,5178,0,0
+1692943368644,11838,HTTP Request,200,OK,JMeter Rest 1-51,text,true,,1011,154,69,192,http://localhost:8082/account/1685018781774620?users=true,11838,0,0
+1692943368519,11996,HTTP Request,200,OK,JMeter Rest 1-80,text,true,,1011,154,69,192,http://localhost:8082/account/1685018781774620?users=true,11996,0,0
+1692943373006,7511,HTTP Request,200,OK,JMeter Rest without Users 2-41,text,true,,479,143,28,191,http://localhost:8082/account/1685018781774620,7511,0,0
+1692943368497,12066,HTTP Request,200,OK,JMeter Rest 1-53,text,true,,1011,154,68,188,http://localhost:8082/account/1685018781774620?users=true,12066,0,0
+1692943368498,12077,HTTP Request,200,OK,JMeter Rest 1-49,text,true,,1011,154,67,187,http://localhost:8082/account/1685018781774620?users=true,12077,0,0
+1692943372782,7802,HTTP Request,200,OK,JMeter Rest without Users 2-66,text,true,,479,143,27,186,http://localhost:8082/account/1685018781774620,7802,0,0
+1692943375312,5283,HTTP Request,200,OK,JMeter Rest without Users 2-88,text,true,,479,143,26,185,http://localhost:8082/account/1685018781774620,5283,0,0
+1692943373127,7471,HTTP Request,200,OK,JMeter Rest without Users 2-59,text,true,,479,143,25,184,http://localhost:8082/account/1685018781774620,7471,0,0
+1692943368605,12082,HTTP Request,200,OK,JMeter Rest 1-50,text,true,,1011,154,66,184,http://localhost:8082/account/1685018781774620?users=true,12082,0,0
+1692943370425,10312,HTTP Request,200,OK,JMeter Rest 1-83,text,true,,1011,154,66,184,http://localhost:8082/account/1685018781774620?users=true,10312,0,0
+1692943367903,12885,HTTP Request,200,OK,JMeter Rest 1-47,text,true,,1011,154,66,183,http://localhost:8082/account/1685018781774620?users=true,12885,0,0
+1692943375068,5769,HTTP Request,200,OK,JMeter Rest without Users 2-70,text,true,,479,143,25,181,http://localhost:8082/account/1685018781774620,5769,0,0
+1692943375178,5737,HTTP Request,200,OK,JMeter Rest without Users 2-54,text,true,,479,143,24,180,http://localhost:8082/account/1685018781774620,5737,0,0
+1692943369375,11636,HTTP Request,200,OK,JMeter Rest 1-60,text,true,,1011,154,65,179,http://localhost:8082/account/1685018781774620?users=true,11636,0,0
+1692943377289,3848,HTTP Request,200,OK,JMeter Rest without Users 2-61,text,true,,479,143,23,177,http://localhost:8082/account/1685018781774620,3848,0,0
+1692943368690,12497,HTTP Request,200,OK,JMeter Rest 1-86,text,true,,1011,154,65,176,http://localhost:8082/account/1685018781774620?users=true,12497,0,0
+1692943369400,11816,HTTP Request,200,OK,JMeter Rest 1-55,text,true,,1011,154,65,176,http://localhost:8082/account/1685018781774620?users=true,11816,0,0
+1692943373705,7557,HTTP Request,200,OK,JMeter Rest without Users 2-2,text,true,,479,143,22,176,http://localhost:8082/account/1685018781774620,7557,0,0
+1692943369321,12013,HTTP Request,200,OK,JMeter Rest 1-76,text,true,,1011,154,65,175,http://localhost:8082/account/1685018781774620?users=true,12013,0,0
+1692943370223,11124,HTTP Request,200,OK,JMeter Rest 1-77,text,true,,1011,154,65,175,http://localhost:8082/account/1685018781774620?users=true,11124,0,0
+1692943374557,6793,HTTP Request,200,OK,JMeter Rest without Users 2-52,text,true,,479,143,21,175,http://localhost:8082/account/1685018781774620,6793,0,0
+1692943368766,12764,HTTP Request,200,OK,JMeter Rest 1-31,text,true,,1011,154,65,172,http://localhost:8082/account/1685018781774620?users=true,12764,0,0
+1692943367932,13753,HTTP Request,200,OK,JMeter Rest 1-28,text,true,,1011,154,65,171,http://localhost:8082/account/1685018781774620?users=true,13753,0,0
+1692943369321,12438,HTTP Request,200,OK,JMeter Rest 1-66,text,true,,1011,154,64,170,http://localhost:8082/account/1685018781774620?users=true,12438,0,0
+1692943370885,10934,HTTP Request,200,OK,JMeter Rest 1-82,text,true,,1011,154,64,170,http://localhost:8082/account/1685018781774620?users=true,10934,0,0
+1692943376820,5020,HTTP Request,200,OK,JMeter Rest without Users 2-89,text,true,,479,143,21,170,http://localhost:8082/account/1685018781774620,5020,0,0
+1692943378104,3827,HTTP Request,200,OK,JMeter Rest without Users 2-45,text,true,,479,143,21,170,http://localhost:8082/account/1685018781774620,3827,0,0
+1692943374447,7619,HTTP Request,200,OK,JMeter Rest without Users 2-92,text,true,,479,143,20,167,http://localhost:8082/account/1685018781774620,7619,0,0
+1692943377436,4669,HTTP Request,200,OK,JMeter Rest without Users 2-91,text,true,,479,143,19,166,http://localhost:8082/account/1685018781774620,4669,0,0
+1692943374563,7784,HTTP Request,200,OK,JMeter Rest without Users 2-74,text,true,,479,143,18,164,http://localhost:8082/account/1685018781774620,7784,0,0
+1692943377399,4953,HTTP Request,200,OK,JMeter Rest without Users 2-60,text,true,,479,143,18,164,http://localhost:8082/account/1685018781774620,4953,0,0
+1692943378598,3795,HTTP Request,200,OK,JMeter Rest without Users 2-50,text,true,,479,143,17,163,http://localhost:8082/account/1685018781774620,3795,0,0
+1692943370317,12092,HTTP Request,200,OK,JMeter Rest 1-12,text,true,,1011,154,64,162,http://localhost:8082/account/1685018781774620?users=true,12092,0,0
+1692943371645,10918,HTTP Request,200,OK,JMeter Rest 1-94,text,true,,1011,154,64,162,http://localhost:8082/account/1685018781774620?users=true,10918,0,0
+1692943378732,3959,HTTP Request,200,OK,JMeter Rest without Users 2-63,text,true,,479,143,16,162,http://localhost:8082/account/1685018781774620,3959,0,0
+1692943370808,11900,HTTP Request,200,OK,JMeter Rest 1-40,text,true,,1011,154,64,161,http://localhost:8082/account/1685018781774620?users=true,11900,0,0
+1692943370992,11911,HTTP Request,200,OK,JMeter Rest 1-81,text,true,,1011,154,64,160,http://localhost:8082/account/1685018781774620?users=true,11911,0,0
+1692943377975,4933,HTTP Request,200,OK,JMeter Rest without Users 2-56,text,true,,479,143,15,160,http://localhost:8082/account/1685018781774620,4933,0,0
+1692943378093,4945,HTTP Request,200,OK,JMeter Rest without Users 2-38,text,true,,479,143,14,159,http://localhost:8082/account/1685018781774620,4945,0,0
+1692943378240,5034,HTTP Request,200,OK,JMeter Rest without Users 2-40,text,true,,479,143,13,158,http://localhost:8082/account/1685018781774620,5034,0,0
+1692943379527,3835,HTTP Request,200,OK,JMeter Rest without Users 2-79,text,true,,479,143,12,156,http://localhost:8082/account/1685018781774620,3835,0,0
+1692943371667,11792,HTTP Request,200,OK,JMeter Rest 1-96,text,true,,1011,154,64,153,http://localhost:8082/account/1685018781774620?users=true,11792,0,0
+1692943380276,3165,HTTP Request,200,OK,JMeter Rest without Users 2-35,text,true,,479,143,11,154,http://localhost:8082/account/1685018781774620,3165,0,0
+1692943373079,10837,HTTP Request,200,OK,JMeter Rest 1-11,text,true,,1011,154,64,149,http://localhost:8082/account/1685018781774620?users=true,10837,0,0
+1692943376061,7912,HTTP Request,200,OK,JMeter Rest without Users 2-14,text,true,,479,143,10,149,http://localhost:8082/account/1685018781774620,7912,0,0
+1692943373110,10861,HTTP Request,200,OK,JMeter Rest 1-85,text,true,,1011,154,64,149,http://localhost:8082/account/1685018781774620?users=true,10861,0,0
+1692943379557,4440,HTTP Request,200,OK,JMeter Rest without Users 2-100,text,true,,479,143,9,148,http://localhost:8082/account/1685018781774620,4440,0,0
+1692943369321,14766,HTTP Request,200,OK,JMeter Rest 1-32,text,true,,1011,154,64,147,http://localhost:8082/account/1685018781774620?users=true,14766,0,0
+1692943380599,3513,HTTP Request,200,OK,JMeter Rest without Users 2-59,text,true,,479,143,8,147,http://localhost:8082/account/1685018781774620,3513,0,0
+1692943371628,12601,HTTP Request,200,OK,JMeter Rest 1-90,text,true,,1011,154,64,145,http://localhost:8082/account/1685018781774620?users=true,12601,0,0
+1692943372382,11932,HTTP Request,200,OK,JMeter Rest 1-74,text,true,,1011,154,64,145,http://localhost:8082/account/1685018781774620?users=true,11932,0,0
+1692943374267,10345,HTTP Request,200,OK,JMeter Rest 1-14,text,true,,1011,154,64,142,http://localhost:8082/account/1685018781774620?users=true,10345,0,0
+1692943380134,4529,HTTP Request,200,OK,JMeter Rest without Users 2-76,text,true,,479,143,7,141,http://localhost:8082/account/1685018781774620,4529,0,0
+1692943376825,7902,HTTP Request,200,OK,JMeter Rest without Users 2-83,text,true,,479,143,6,140,http://localhost:8082/account/1685018781774620,7902,0,0
+1692943381352,3388,HTTP Request,200,OK,JMeter Rest without Users 2-52,text,true,,479,143,5,138,http://localhost:8082/account/1685018781774620,3388,0,0
+1692943381842,2925,HTTP Request,200,OK,JMeter Rest without Users 2-89,text,true,,479,143,4,136,http://localhost:8082/account/1685018781774620,2925,0,0
+1692943376403,8445,HTTP Request,200,OK,JMeter Rest 1-93,text,true,,1011,154,63,135,http://localhost:8082/account/1685018781774620?users=true,8445,0,0
+1692943374693,10169,HTTP Request,200,OK,JMeter Rest 1-70,text,true,,1011,154,63,135,http://localhost:8082/account/1685018781774620?users=true,10169,0,0
+1692943375477,9451,HTTP Request,200,OK,JMeter Rest 1-15,text,true,,1011,154,63,135,http://localhost:8082/account/1685018781774620?users=true,9451,0,0
+1692943372405,12564,HTTP Request,200,OK,JMeter Rest 1-29,text,true,,1011,154,62,134,http://localhost:8082/account/1685018781774620?users=true,12564,0,0
+1692943376585,8497,HTTP Request,200,OK,JMeter Rest 1-36,text,true,,1011,154,62,134,http://localhost:8082/account/1685018781774620?users=true,8497,0,0
+1692943375378,9715,HTTP Request,200,OK,JMeter Rest 1-98,text,true,,1011,154,61,133,http://localhost:8082/account/1685018781774620?users=true,9715,0,0
+1692943374256,10863,HTTP Request,200,OK,JMeter Rest 1-79,text,true,,1011,154,60,132,http://localhost:8082/account/1685018781774620?users=true,10863,0,0
+1692943370402,14822,HTTP Request,200,OK,JMeter Rest 1-88,text,true,,1011,154,60,131,http://localhost:8082/account/1685018781774620?users=true,14822,0,0
+1692943377843,7500,HTTP Request,200,OK,JMeter Rest without Users 2-65,text,true,,479,143,3,131,http://localhost:8082/account/1685018781774620,7500,0,0
+1692943370807,14743,HTTP Request,200,OK,JMeter Rest 1-19,text,true,,1011,154,60,130,http://localhost:8082/account/1685018781774620?users=true,14743,0,0
+1692943378738,6872,HTTP Request,200,OK,JMeter Rest without Users 2-77,text,true,,479,143,2,130,http://localhost:8082/account/1685018781774620,6872,0,0
+1692943373974,11742,HTTP Request,200,OK,JMeter Rest 1-21,text,true,,1011,154,60,129,http://localhost:8082/account/1685018781774620?users=true,11742,0,0
+1692943376544,9182,HTTP Request,200,OK,JMeter Rest 1-26,text,true,,1011,154,59,128,http://localhost:8082/account/1685018781774620?users=true,9182,0,0
+1692943376928,8900,HTTP Request,200,OK,JMeter Rest 1-20,text,true,,1011,154,59,128,http://localhost:8082/account/1685018781774620?users=true,8900,0,0
+1692943382348,3550,HTTP Request,200,OK,JMeter Rest without Users 2-74,text,true,,479,143,1,126,http://localhost:8082/account/1685018781774620,3550,0,0
+1692943377287,8630,HTTP Request,200,OK,JMeter Rest 1-59,text,true,,1011,154,59,125,http://localhost:8082/account/1685018781774620?users=true,8630,0,0
+1692943377910,8123,HTTP Request,200,OK,JMeter Rest 1-62,text,true,,1011,154,58,123,http://localhost:8082/account/1685018781774620?users=true,8123,0,0
+1692943373188,13001,HTTP Request,200,OK,JMeter Rest 1-7,text,true,,1011,154,58,123,http://localhost:8082/account/1685018781774620?users=true,13001,0,0
+1692943376834,9373,HTTP Request,200,OK,JMeter Rest 1-1,text,true,,1011,154,58,123,http://localhost:8082/account/1685018781774620?users=true,9373,0,0
+1692943380001,6293,HTTP Request,200,OK,JMeter Rest 1-33,text,true,,1011,154,57,121,http://localhost:8082/account/1685018781774620?users=true,6293,0,0
+1692943379569,6983,HTTP Request,200,OK,JMeter Rest 1-24,text,true,,1011,154,56,119,http://localhost:8082/account/1685018781774620?users=true,6983,0,0
+1692943372769,13947,HTTP Request,200,OK,JMeter Rest 1-87,text,true,,1011,154,56,117,http://localhost:8082/account/1685018781774620?users=true,13947,0,0
+1692943381187,5585,HTTP Request,200,OK,JMeter Rest 1-86,text,true,,1011,154,56,117,http://localhost:8082/account/1685018781774620?users=true,5585,0,0
+1692943379841,7120,HTTP Request,200,OK,JMeter Rest 1-69,text,true,,1011,154,55,116,http://localhost:8082/account/1685018781774620?users=true,7120,0,0
+1692943380481,6492,HTTP Request,200,OK,JMeter Rest 1-51,text,true,,1011,154,54,115,http://localhost:8082/account/1685018781774620?users=true,6492,0,0
+1692943378270,8782,HTTP Request,200,OK,JMeter Rest 1-68,text,true,,1011,154,53,114,http://localhost:8082/account/1685018781774620?users=true,8782,0,0
+1692943380172,6891,HTTP Request,200,OK,JMeter Rest 1-18,text,true,,1011,154,52,113,http://localhost:8082/account/1685018781774620?users=true,6891,0,0
+1692943375019,12325,HTTP Request,200,OK,JMeter Rest 1-95,text,true,,1011,154,51,111,http://localhost:8082/account/1685018781774620?users=true,12325,0,0
+1692943381010,6368,HTTP Request,200,OK,JMeter Rest 1-60,text,true,,1011,154,51,111,http://localhost:8082/account/1685018781774620?users=true,6368,0,0
+1692943379603,7866,HTTP Request,200,OK,JMeter Rest 1-89,text,true,,1011,154,51,110,http://localhost:8082/account/1685018781774620?users=true,7866,0,0
+1692943377399,10250,HTTP Request,200,OK,JMeter Rest 1-100,text,true,,1011,154,50,109,http://localhost:8082/account/1685018781774620?users=true,10250,0,0
+1692943376722,10986,HTTP Request,200,OK,JMeter Rest 1-67,text,true,,1011,154,49,108,http://localhost:8082/account/1685018781774620?users=true,10986,0,0
+1692943380156,7612,HTTP Request,200,OK,JMeter Rest 1-48,text,true,,1011,154,49,108,http://localhost:8082/account/1685018781774620?users=true,7612,0,0
+1692943380686,7107,HTTP Request,200,OK,JMeter Rest 1-50,text,true,,1011,154,49,108,http://localhost:8082/account/1685018781774620?users=true,7107,0,0
+1692943380453,7361,HTTP Request,200,OK,JMeter Rest 1-44,text,true,,1011,154,49,108,http://localhost:8082/account/1685018781774620?users=true,7361,0,0
+1692943377078,10755,HTTP Request,200,OK,JMeter Rest 1-9,text,true,,1011,154,49,108,http://localhost:8082/account/1685018781774620?users=true,10755,0,0
+1692943375048,12830,HTTP Request,200,OK,JMeter Rest 1-4,text,true,,1011,154,49,108,http://localhost:8082/account/1685018781774620?users=true,12830,0,0
+1692943378764,9182,HTTP Request,200,OK,JMeter Rest 1-25,text,true,,1011,154,49,108,http://localhost:8082/account/1685018781774620?users=true,9182,0,0
+1692943380736,7246,HTTP Request,200,OK,JMeter Rest 1-83,text,true,,1011,154,48,107,http://localhost:8082/account/1685018781774620?users=true,7246,0,0
+1692943377678,10362,HTTP Request,200,OK,JMeter Rest 1-57,text,true,,1011,154,48,107,http://localhost:8082/account/1685018781774620?users=true,10362,0,0
+1692943376605,11443,HTTP Request,200,OK,JMeter Rest 1-63,text,true,,1011,154,47,106,http://localhost:8082/account/1685018781774620?users=true,11443,0,0
+1692943380224,7833,HTTP Request,200,OK,JMeter Rest 1-45,text,true,,1011,154,47,106,http://localhost:8082/account/1685018781774620?users=true,7833,0,0
+1692943379188,8948,HTTP Request,200,OK,JMeter Rest 1-92,text,true,,1011,154,47,106,http://localhost:8082/account/1685018781774620?users=true,8948,0,0
+1692943381216,6984,HTTP Request,200,OK,JMeter Rest 1-55,text,true,,1011,154,46,105,http://localhost:8082/account/1685018781774620?users=true,6984,0,0
+1692943377299,11134,HTTP Request,200,OK,JMeter Rest 1-17,text,true,,1011,154,46,105,http://localhost:8082/account/1685018781774620?users=true,11134,0,0
+1692943379135,9395,HTTP Request,200,OK,JMeter Rest 1-73,text,true,,1011,154,45,104,http://localhost:8082/account/1685018781774620?users=true,9395,0,0
+1692943381819,6915,HTTP Request,200,OK,JMeter Rest 1-82,text,true,,1011,154,45,104,http://localhost:8082/account/1685018781774620?users=true,6915,0,0
+1692943378653,10160,HTTP Request,200,OK,JMeter Rest 1-72,text,true,,1011,154,45,103,http://localhost:8082/account/1685018781774620?users=true,10160,0,0
+1692943377399,11424,HTTP Request,200,OK,JMeter Rest 1-5,text,true,,1011,154,44,102,http://localhost:8082/account/1685018781774620?users=true,11424,0,0
+1692943382409,6638,HTTP Request,200,OK,JMeter Rest 1-12,text,true,,1011,154,44,100,http://localhost:8082/account/1685018781774620?users=true,6638,0,0
+1692943383975,5367,HTTP Request,200,OK,JMeter Rest 1-85,text,true,,1011,154,43,96,http://localhost:8082/account/1685018781774620?users=true,5367,0,0
+1692943379293,10060,HTTP Request,200,OK,JMeter Rest 1-13,text,true,,1011,154,43,96,http://localhost:8082/account/1685018781774620?users=true,10060,0,0
+1692943381530,7844,HTTP Request,200,OK,JMeter Rest 1-31,text,true,,1011,154,43,96,http://localhost:8082/account/1685018781774620?users=true,7844,0,0
+1692943385224,4206,HTTP Request,200,OK,JMeter Rest 1-88,text,true,,1011,154,43,96,http://localhost:8082/account/1685018781774620?users=true,4206,0,0
+1692943381335,8261,HTTP Request,200,OK,JMeter Rest 1-76,text,true,,1011,154,43,94,http://localhost:8082/account/1685018781774620?users=true,8261,0,0
+1692943385019,4626,HTTP Request,200,OK,JMeter Rest 1-29,text,true,,1011,154,43,94,http://localhost:8082/account/1685018781774620?users=true,4626,0,0
+1692943384087,5834,HTTP Request,200,OK,JMeter Rest 1-32,text,true,,1011,154,42,92,http://localhost:8082/account/1685018781774620?users=true,5834,0,0
+1692943382709,7232,HTTP Request,200,OK,JMeter Rest 1-40,text,true,,1011,154,42,91,http://localhost:8082/account/1685018781774620?users=true,7232,0,0
+1692943379832,10119,HTTP Request,200,OK,JMeter Rest 1-23,text,true,,1011,154,42,91,http://localhost:8082/account/1685018781774620?users=true,10119,0,0
+1692943379654,10326,HTTP Request,200,OK,JMeter Rest 1-64,text,true,,1011,154,42,91,http://localhost:8082/account/1685018781774620?users=true,10326,0,0
+1692943381347,8711,HTTP Request,200,OK,JMeter Rest 1-77,text,true,,1011,154,42,91,http://localhost:8082/account/1685018781774620?users=true,8711,0,0
+1692943385728,4375,HTTP Request,200,OK,JMeter Rest 1-26,text,true,,1011,154,42,91,http://localhost:8082/account/1685018781774620?users=true,4375,0,0
+1692943383917,6192,HTTP Request,200,OK,JMeter Rest 1-11,text,true,,1011,154,42,91,http://localhost:8082/account/1685018781774620?users=true,6192,0,0
+1692943384850,5500,HTTP Request,200,OK,JMeter Rest 1-93,text,true,,1011,154,41,88,http://localhost:8082/account/1685018781774620?users=true,5500,0,0
+1692943385120,5405,HTTP Request,200,OK,JMeter Rest 1-79,text,true,,1011,154,40,87,http://localhost:8082/account/1685018781774620?users=true,5405,0,0
+1692943384315,6249,HTTP Request,200,OK,JMeter Rest 1-74,text,true,,1011,154,40,87,http://localhost:8082/account/1685018781774620?users=true,6249,0,0
+1692943384230,6497,HTTP Request,200,OK,JMeter Rest 1-90,text,true,,1011,154,40,87,http://localhost:8082/account/1685018781774620?users=true,6497,0,0
+1692943385550,5381,HTTP Request,200,OK,JMeter Rest 1-19,text,true,,1011,154,40,87,http://localhost:8082/account/1685018781774620?users=true,5381,0,0
+1692943386717,4463,HTTP Request,200,OK,JMeter Rest 1-87,text,true,,1011,154,40,86,http://localhost:8082/account/1685018781774620?users=true,4463,0,0
+1692943386039,5194,HTTP Request,200,OK,JMeter Rest 1-62,text,true,,1011,154,40,86,http://localhost:8082/account/1685018781774620?users=true,5194,0,0
+1692943386190,5056,HTTP Request,200,OK,JMeter Rest 1-7,text,true,,1011,154,39,84,http://localhost:8082/account/1685018781774620?users=true,5056,0,0
+1692943383469,7788,HTTP Request,200,OK,JMeter Rest 1-96,text,true,,1011,154,38,82,http://localhost:8082/account/1685018781774620?users=true,7788,0,0
+1692943381759,9510,HTTP Request,200,OK,JMeter Rest 1-66,text,true,,1011,154,38,82,http://localhost:8082/account/1685018781774620?users=true,9510,0,0
+1692943386553,5026,HTTP Request,200,OK,JMeter Rest 1-24,text,true,,1011,154,38,81,http://localhost:8082/account/1685018781774620?users=true,5026,0,0
+1692943385830,5793,HTTP Request,200,OK,JMeter Rest 1-20,text,true,,1011,154,37,77,http://localhost:8082/account/1685018781774620?users=true,5793,0,0
+1692943387709,4009,HTTP Request,200,OK,JMeter Rest 1-67,text,true,,1011,154,36,74,http://localhost:8082/account/1685018781774620?users=true,4009,0,0
+1692943387834,3978,HTTP Request,200,OK,JMeter Rest 1-9,text,true,,1011,154,36,73,http://localhost:8082/account/1685018781774620?users=true,3978,0,0
+1692943382564,9300,HTTP Request,200,OK,JMeter Rest 1-94,text,true,,1011,154,36,73,http://localhost:8082/account/1685018781774620?users=true,9300,0,0
+1692943387346,4584,HTTP Request,200,OK,JMeter Rest 1-95,text,true,,1011,154,36,71,http://localhost:8082/account/1685018781774620?users=true,4584,0,0
+1692943388058,4000,HTTP Request,200,OK,JMeter Rest 1-45,text,true,,1011,154,35,69,http://localhost:8082/account/1685018781774620?users=true,4000,0,0
+1692943384863,7233,HTTP Request,200,OK,JMeter Rest 1-70,text,true,,1011,154,35,69,http://localhost:8082/account/1685018781774620?users=true,7233,0,0
+1692943387769,4317,HTTP Request,200,OK,JMeter Rest 1-48,text,true,,1011,154,35,69,http://localhost:8082/account/1685018781774620?users=true,4317,0,0
+1692943387794,4285,HTTP Request,200,OK,JMeter Rest 1-50,text,true,,1011,154,35,69,http://localhost:8082/account/1685018781774620?users=true,4285,0,0
+1692943387879,4348,HTTP Request,200,OK,JMeter Rest 1-4,text,true,,1011,154,35,69,http://localhost:8082/account/1685018781774620?users=true,4348,0,0
+1692943388576,3662,HTTP Request,200,OK,JMeter Rest 1-73,text,true,,1011,154,34,68,http://localhost:8082/account/1685018781774620?users=true,3662,0,0
+1692943382903,9340,HTTP Request,200,OK,JMeter Rest 1-81,text,true,,1011,154,33,67,http://localhost:8082/account/1685018781774620?users=true,9340,0,0
+1692943388200,4095,HTTP Request,200,OK,JMeter Rest 1-55,text,true,,1011,154,33,67,http://localhost:8082/account/1685018781774620?users=true,4095,0,0
+1692943387379,4929,HTTP Request,200,OK,JMeter Rest 1-60,text,true,,1011,154,33,67,http://localhost:8082/account/1685018781774620?users=true,4929,0,0
+1692943387983,4642,HTTP Request,200,OK,JMeter Rest 1-83,text,true,,1011,154,33,67,http://localhost:8082/account/1685018781774620?users=true,4642,0,0
+1692943388824,3745,HTTP Request,200,OK,JMeter Rest 1-5,text,true,,1011,154,33,67,http://localhost:8082/account/1685018781774620?users=true,3745,0,0
+1692943387815,5089,HTTP Request,200,OK,JMeter Rest 1-44,text,true,,1011,154,33,66,http://localhost:8082/account/1685018781774620?users=true,5089,0,0
+1692943389354,3561,HTTP Request,200,OK,JMeter Rest 1-13,text,true,,1011,154,33,66,http://localhost:8082/account/1685018781774620?users=true,3561,0,0
+1692943389375,3699,HTTP Request,200,OK,JMeter Rest 1-31,text,true,,1011,154,33,62,http://localhost:8082/account/1685018781774620?users=true,3699,0,0
+1692943388049,5163,HTTP Request,200,OK,JMeter Rest 1-63,text,true,,1011,154,33,60,http://localhost:8082/account/1685018781774620?users=true,5163,0,0
+1692943390080,3466,HTTP Request,200,OK,JMeter Rest 1-77,text,true,,1011,154,32,57,http://localhost:8082/account/1685018781774620?users=true,3466,0,0
+1692943388734,4838,HTTP Request,200,OK,JMeter Rest 1-82,text,true,,1011,154,32,57,http://localhost:8082/account/1685018781774620?users=true,4838,0,0
+1692943389952,3613,HTTP Request,200,OK,JMeter Rest 1-23,text,true,,1011,154,32,57,http://localhost:8082/account/1685018781774620?users=true,3613,0,0
+1692943389921,3972,HTTP Request,200,OK,JMeter Rest 1-32,text,true,,1011,154,31,55,http://localhost:8082/account/1685018781774620?users=true,3972,0,0
+1692943389343,4563,HTTP Request,200,OK,JMeter Rest 1-85,text,true,,1011,154,30,54,http://localhost:8082/account/1685018781774620?users=true,4563,0,0
+1692943389430,4504,HTTP Request,200,OK,JMeter Rest 1-88,text,true,,1011,154,29,53,http://localhost:8082/account/1685018781774620?users=true,4504,0,0
+1692943389942,4050,HTTP Request,200,OK,JMeter Rest 1-40,text,true,,1011,154,29,52,http://localhost:8082/account/1685018781774620?users=true,4050,0,0
+1692943390103,3933,HTTP Request,200,OK,JMeter Rest 1-26,text,true,,1011,154,28,51,http://localhost:8082/account/1685018781774620?users=true,3933,0,0
+1692943389981,4088,HTTP Request,200,OK,JMeter Rest 1-64,text,true,,1011,154,27,50,http://localhost:8082/account/1685018781774620?users=true,4088,0,0
+1692943390931,3263,HTTP Request,200,OK,JMeter Rest 1-19,text,true,,1011,154,26,49,http://localhost:8082/account/1685018781774620?users=true,3263,0,0
+1692943390525,3676,HTTP Request,200,OK,JMeter Rest 1-79,text,true,,1011,154,25,48,http://localhost:8082/account/1685018781774620?users=true,3676,0,0
+1692943390727,3512,HTTP Request,200,OK,JMeter Rest 1-90,text,true,,1011,154,24,46,http://localhost:8082/account/1685018781774620?users=true,3512,0,0
+1692943389620,4713,HTTP Request,200,OK,JMeter Rest 1-76,text,true,,1011,154,23,45,http://localhost:8082/account/1685018781774620?users=true,4713,0,0
+1692943391180,3167,HTTP Request,200,OK,JMeter Rest 1-87,text,true,,1011,154,23,45,http://localhost:8082/account/1685018781774620?users=true,3167,0,0
+1692943390583,3846,HTTP Request,200,OK,JMeter Rest 1-74,text,true,,1011,154,22,43,http://localhost:8082/account/1685018781774620?users=true,3846,0,0
+1692943391257,3248,HTTP Request,200,OK,JMeter Rest 1-96,text,true,,1011,154,21,42,http://localhost:8082/account/1685018781774620?users=true,3248,0,0
+1692943391269,3246,HTTP Request,200,OK,JMeter Rest 1-66,text,true,,1011,154,20,41,http://localhost:8082/account/1685018781774620?users=true,3246,0,0
+1692943391864,2782,HTTP Request,200,OK,JMeter Rest 1-94,text,true,,1011,154,20,39,http://localhost:8082/account/1685018781774620?users=true,2782,0,0
+1692943391812,2889,HTTP Request,200,OK,JMeter Rest 1-9,text,true,,1011,154,19,38,http://localhost:8082/account/1685018781774620?users=true,2889,0,0
+1692943391718,3007,HTTP Request,200,OK,JMeter Rest 1-67,text,true,,1011,154,18,36,http://localhost:8082/account/1685018781774620?users=true,3007,0,0
+1692943392058,2785,HTTP Request,200,OK,JMeter Rest 1-45,text,true,,1011,154,17,35,http://localhost:8082/account/1685018781774620?users=true,2785,0,0
+1692943392127,2849,HTTP Request,200,OK,JMeter Rest 1-48,text,true,,1011,154,16,33,http://localhost:8082/account/1685018781774620?users=true,2849,0,0
+1692943392128,2861,HTTP Request,200,OK,JMeter Rest 1-50,text,true,,1011,154,15,32,http://localhost:8082/account/1685018781774620?users=true,2861,0,0
+1692943392127,2901,HTTP Request,200,OK,JMeter Rest 1-70,text,true,,1011,154,14,30,http://localhost:8082/account/1685018781774620?users=true,2901,0,0
+1692943392308,2758,HTTP Request,200,OK,JMeter Rest 1-60,text,true,,1011,154,13,29,http://localhost:8082/account/1685018781774620?users=true,2758,0,0
+1692943392295,2796,HTTP Request,200,OK,JMeter Rest 1-55,text,true,,1011,154,12,28,http://localhost:8082/account/1685018781774620?users=true,2796,0,0
+1692943392243,2892,HTTP Request,200,OK,JMeter Rest 1-81,text,true,,1011,154,11,25,http://localhost:8082/account/1685018781774620?users=true,2892,0,0
+1692943392637,2572,HTTP Request,200,OK,JMeter Rest 1-83,text,true,,1011,154,10,24,http://localhost:8082/account/1685018781774620?users=true,2572,0,0
+1692943392637,2579,HTTP Request,200,OK,JMeter Rest 1-5,text,true,,1011,154,9,23,http://localhost:8082/account/1685018781774620?users=true,2579,0,0
+1692943392915,2381,HTTP Request,200,OK,JMeter Rest 1-13,text,true,,1011,154,8,21,http://localhost:8082/account/1685018781774620?users=true,2381,0,0
+1692943392904,2457,HTTP Request,200,OK,JMeter Rest 1-44,text,true,,1011,154,7,18,http://localhost:8082/account/1685018781774620?users=true,2456,0,0
+1692943393102,2368,HTTP Request,200,OK,JMeter Rest 1-31,text,true,,1011,154,6,16,http://localhost:8082/account/1685018781774620?users=true,2368,0,0
+1692943393546,2382,HTTP Request,200,OK,JMeter Rest 1-77,text,true,,1011,154,5,10,http://localhost:8082/account/1685018781774620?users=true,2382,0,0
+1692943393631,2310,HTTP Request,200,OK,JMeter Rest 1-23,text,true,,1011,154,4,9,http://localhost:8082/account/1685018781774620?users=true,2310,0,0
+1692943393934,2179,HTTP Request,200,OK,JMeter Rest 1-88,text,true,,1011,154,3,8,http://localhost:8082/account/1685018781774620?users=true,2179,0,0
+1692943394333,2117,HTTP Request,200,OK,JMeter Rest 1-76,text,true,,1011,154,2,4,http://localhost:8082/account/1685018781774620?users=true,2117,0,0
+1692943394515,2122,HTTP Request,200,OK,JMeter Rest 1-66,text,true,,1011,154,1,2,http://localhost:8082/account/1685018781774620?users=true,2122,0,0

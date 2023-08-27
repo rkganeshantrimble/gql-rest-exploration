@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { config } from '../config/index.js';
 const clientCreds =
-  'eyJhbGciOiJSUzI1NiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3N0YWdlLmlkLnRyaW1ibGVjbG91ZC5jb20iLCJleHAiOjE2OTI3ODY2MDAsIm5iZiI6MTY5Mjc4MzAwMCwiaWF0IjoxNjkyNzgzMDAwLCJqdGkiOiI2ZjMzNzFiOTU4YWE0MTI2YmIyMTkyZjZjNzkwZDk5NyIsImp3dF92ZXIiOjIsInN1YiI6ImE4MjBkYzE2LTllYTAtNGM1Yi1iNjI0LThkNTFiNjFkZDA5NCIsImFwcGxpY2F0aW9uX25hbWUiOiJUQ01pZGRsZXdhcmUtRGV2IiwiaWRlbnRpdHlfdHlwZSI6ImFwcGxpY2F0aW9uIiwiYXV0aF90aW1lIjoxNjkyNzgzMDAwLCJhbXIiOlsiY2xpZW50X2NyZWRlbnRpYWxzIl0sImF1ZCI6WyI5YzMwYzIyYi0zMzRmLTQzY2YtYmJlNS01MmE5MTVlY2Q4MDYiXSwic2NvcGUiOiJBWERpc2NvdmVyeSJ9.VB35RyPHMhErTAhzxJuacrRJRqU2CftV5Fgu4g83707i3Pjs4b3R-0N48c0349iNYQc_aVnGjUpI7lySA7fS_HOp7ldwCGyJv003770MYTJPKyILDkVMqz6-ihNqIRKcyIpUZR-JdYmqSvwDAZvlkQaJ1deLKe_ye7nMpugqCAPN-aGOUqEXyW_MWM5P2UL_q6utYEhMySuC52quYdyQ69zk3_qeKvVe0wIW9wE-Z4Tbtekux0snzolLDvceKqa00DgnXBaKHMvcpu4R13TQWd1EKY1gi6unOfM1PLlX55kLTDPMC8yBoU3sWQXXv--_iqr6m00K42dtiBTs2vmpzA';
+  'eyJhbGciOiJSUzI1NiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3N0YWdlLmlkLnRyaW1ibGVjbG91ZC5jb20iLCJleHAiOjE2OTI5NDU1MzcsIm5iZiI6MTY5Mjk0MTkzNywiaWF0IjoxNjkyOTQxOTM3LCJqdGkiOiIyYWJlMGE3ZTNlNWI0OTQwYjA3ZTc1NGQ5OWU1M2EyYyIsImp3dF92ZXIiOjIsInN1YiI6ImE4MjBkYzE2LTllYTAtNGM1Yi1iNjI0LThkNTFiNjFkZDA5NCIsImFwcGxpY2F0aW9uX25hbWUiOiJUQ01pZGRsZXdhcmUtRGV2IiwiaWRlbnRpdHlfdHlwZSI6ImFwcGxpY2F0aW9uIiwiYXV0aF90aW1lIjoxNjkyOTQxOTM3LCJhbXIiOlsiY2xpZW50X2NyZWRlbnRpYWxzIl0sImF1ZCI6WyI5YzMwYzIyYi0zMzRmLTQzY2YtYmJlNS01MmE5MTVlY2Q4MDYiXSwic2NvcGUiOiJBWERpc2NvdmVyeSJ9.B6sAIv5LbIE_zCkpRYcRysJ_Nmcv3cLHzpdAZ3X8FBo3sQEkA6CWZchMkSeA8w0iMcoYqVYolc6iJPdDe1VNC7qSUc2q7r-wYq3hjIBgiC7bRYr9XcvGr5QQhVnCtC6uH1n55zAXZ0iSWtWOZQP9mTO1PmiJ4j4ekslKvGRO10jbGzLyqmaCaK4X2jQi-WZizdJf_OIMXL9YTGg-8Nuq7uEo-zve9CTDpqpsl8WegZoKbsFGZfMtqNxB450JAL81YGuZZPMgGrI60FcFruFQB8gWcctKqJSazjUj4yPWhUS3d2W7jUSbP6UNUPNrfoMeiBLYdmEctiOz4HNUJYCvEw';
 export const getUserData = async (userId: String) => {
   // Get user details
   let response = await axios.get(
@@ -95,9 +95,11 @@ export const getUserData = async (userId: String) => {
   return result;
 };
 
-export const getAccountData = async (accountId: String) => {
+export const getAccountData = async (
+  accountId: String,
+  isUserRequested: boolean
+) => {
   let result = {};
-
   // Get account details
   let response = await axios.get(
     config.service.profiles.baseUrl +
@@ -146,30 +148,68 @@ export const getAccountData = async (accountId: String) => {
 
   result['addresses'] = [...addressesResponse.data.data];
 
-  // Get users of each account
-  let usersResponse = await axios.post(
-    config.service.profiles.baseUrl + config.service.profiles.endpoints.users,
-    {
-      relations: [
-        {
-          targetProfileFilters: {
-            type: 'accounts',
-            relationName: 'member-of',
-            expr: 'role=in=(owner,secondary_owner,admin,product_user)',
-            targetExpr: `trn==trn:profiles:accounts:${accountId}`,
+  if (isUserRequested) {
+    // Get users of each account
+    let usersResponse = await axios.post(
+      config.service.profiles.baseUrl + config.service.profiles.endpoints.users,
+      {
+        relations: [
+          {
+            targetProfileFilters: {
+              type: 'accounts',
+              relationName: 'member-of',
+              expr: 'role=in=(owner,secondary_owner,admin,product_user)',
+              targetExpr: `trn==trn:profiles:accounts:${accountId}`,
+            },
           },
-        },
-      ],
-      context: `trn:profiles:accounts:${accountId}`,
-    },
-    {
-      headers: {
-        Authorization: `Bearer ${clientCreds}`,
-        'Content-Type': 'application/json',
+        ],
+        context: `trn:profiles:accounts:${accountId}`,
       },
-    }
-  );
-  result['users'] = usersResponse.data.data;
+      {
+        headers: {
+          Authorization: `Bearer ${clientCreds}`,
+          'Content-Type': 'application/json',
+        },
+      }
+    );
+    result['users'] = usersResponse.data.data;
+  }
 
-  return result;
+  let filteredAddressResult = result['addresses'].map((addressObj) => {
+    let filteredAddressObj = {};
+    filteredAddressObj['address'] = addressObj.address;
+    filteredAddressObj['city'] = addressObj.city;
+    filteredAddressObj['country'] = addressObj.country;
+    filteredAddressObj['postalCode'] = addressObj.postalCode;
+    filteredAddressObj['state'] = addressObj.state;
+    return filteredAddressObj;
+  });
+
+  let finalResult = {};
+  finalResult['uuid'] = result['uuid'];
+  finalResult['name'] = result['name'];
+  finalResult['type'] = result['type'];
+  finalResult['addresses'] = filteredAddressResult;
+  if (isUserRequested) {
+    let filteredUsersResult = result['users'].map((userObj) => {
+      let filteredUserObj = {};
+      filteredUserObj['firstName'] = userObj.firstName;
+      filteredUserObj['lastName'] = userObj.lastName;
+      filteredUserObj['email'] = userObj.email;
+      filteredUserObj['uuid'] = userObj.uuid;
+      return filteredUserObj;
+    });
+    finalResult['users'] = filteredUsersResult;
+  }
+
+  //   let arr=[{"name":"ganesh","age":23},{"name":"kartik","age":26}]
+  // console.log(arr)
+  // let newArr=arr.map((obj)=>{
+  //     let newObj={}
+  //     newObj.name=obj.name;
+  //     return newObj
+  // })
+  // console.log(newArr)
+  // return result;
+  return finalResult;
 };

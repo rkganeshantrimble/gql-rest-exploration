@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1693133869784,1948,GraphQL HTTP Request 2,200,OK,JMeter Gql-Resolvers 5-1,text,true,,1059,788,1,263,http://localhost:4000/,1948,0,0
+1693133871732,4219,GraphQL HTTP Request 2,200,OK,JMeter Gql-Resolvers 5-1,text,true,,1059,788,1,201,http://localhost:4000/,4219,0,0
+1693133875952,5669,GraphQL HTTP Request 2,200,OK,JMeter Gql-Resolvers 5-1,text,true,,1059,788,1,196,http://localhost:4000/,5669,0,0
+1693133881621,4992,GraphQL HTTP Request 2,200,OK,JMeter Gql-Resolvers 5-1,text,true,,1059,788,1,147,http://localhost:4000/,4992,0,0
+1693133886613,3615,GraphQL HTTP Request 2,200,OK,JMeter Gql-Resolvers 5-1,text,true,,1059,788,1,100,http://localhost:4000/,3615,0,0

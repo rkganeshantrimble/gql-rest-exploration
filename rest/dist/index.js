@@ -8,9 +8,6 @@ app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 import { default as accounts } from './routes/accounts.js';
 app.use('/account', accounts);
-app.use('/', () => {
-  console.log('hit /');
-});
 app.listen(8082, () => {
-  console.log(`App is listening at Port:${process.env.PORT}`);
+  console.log(`App is listening at Port:8082`);
 });
